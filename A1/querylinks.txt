@@ -1,0 +1,86 @@
+QUERY 1: (When is the next UEFA champions league competition)
+
+Google Search Engine Research
+
+1. http://www.uefa.com/uefachampionsleague/index.html#/
+2. http://www.uefa.com/uefachampionsleague/season=2018/matches/index.html#md/33347
+3. https://en.wikipedia.org/wiki/UEFA_Champions_League
+4. https://en.wikipedia.org/wiki/2017%E2%80%9318_UEFA_Champions_League
+5. https://en.wikipedia.org/wiki/2017_UEFA_Champions_League_Final
+6. http://www.foxsports.com/soccer/schedule?competition=7
+7. http://www.foxsports.com/soccer/schedule?competition=7&season=2017&group=0
+8. https://play.google.com/store/apps/details?id=com.uefa.ucl&hl=en
+9. https://www.premierleague.com/european-qualification-explained
+10. http://bleacherreport.com/uefa-champions-league
+
+Bing Search Engine Result
+
+1. https://en.wikipedia.org/wiki/UEFA_Champions_League
+2. http://www.uefa.com/uefachampionsleague/#/
+3. http://www.uefa.com/uefachampionsleague/index.html#/
+4. https://en.wikipedia.org/wiki/2017%E2%80%9318_UEFA_Champions_League_qualifying_phase_and_play-off_round
+5. https://www.ft.com/content/7af1f348-442b-11e6-9b66-0712b3873ae1
+6. https://www.nytimes.com/2017/08/17/sports/soccer/turner-champions-league-streaming-service.html
+7. https://www.playstation.com/en-gb/legal/playstation-fc-uefa-champions-league-final-cardiff-2017-competit/
+8. https://ide.uefa.com/futsaleuro/news/newsid=2454068.html
+9. https://www.premierleague.com/uefa-champions-league-explained
+10. http://larrybrownsports.com/soccer/eight-teams-win-uefa-champions-league/394577
+
+Query 2: (Hurricane maria 2017 update)
+
+Google Search Engine Result
+
+1. https://www.nytimes.com/2017/09/20/us/hurricane-maria-puerto-rico.html?mcubz=1
+2. http://www.telegraph.co.uk/news/2017/09/20/hurricane-maria-path-latest-news-live-puerto-rico-virgin-islands/
+3. https://www.theguardian.com/world/live/2017/sep/19/hurricane-maria-category-5-caribbean-live-updates
+4. https://www.cbsnews.com/news/hurricane-maria-category-2-path-latest-track-models-2017-09-20/
+5. http://www.cnn.com/2017/09/19/us/hurricane-maria-latest/index.html
+6. http://www.cnn.com/2017/09/20/americas/hurricane-maria-caribbean-islands/index.html
+7. http://www.express.co.uk/news/weather/856406/Hurricane-Maria-path-NOAA-track-models-update-North-Carolina-US-tracking-live-latest-NHC
+8. https://www.wunderground.com/hurricane/atlantic/2017/tropical-storm-maria
+9. https://www.vox.com/science-and-health/2017/9/18/16326920/hurricane-maria-2017-forecast-caribbean-virgin-islands-puerto-rico
+10. http://www.businessinsider.com/hurricane-maria-path-track-update-2017-9
+ 
+
+Bing search Engine Result
+
+1. http://www.cnn.com/2017/09/19/us/hurricane-maria-latest/index.html
+2. https://www.cbsnews.com/news/hurricane-maria-category-2-path-latest-track-models-2017-09-20/
+3.http://www.cnn.com/videos/weather/2017/09/20/hurricane-maria-update-wednesday.cnn
+4. http://coed.com/2017/09/17/hurricane-maria-forecast-map-path-live-updates-trajectory-caribbean-atlantic-wind-speed-storm/
+5.http://www.npr.org/2017/09/20/552269850/update-on-hurricane-maria
+6.http://www.businessinsider.com/hurricane-maria-path-track-update-2017-9
+7. http://coed.com/2017/09/17/tropical-storm-maria-forecast-map-path-live-updates-trajectory-hurricane-caribbean-florida/
+8. https://www.cbsnews.com/news/hurricane-maria-category-2-path-latest-track-models-2017-09-20/
+9. https://www.nytimes.com/2017/09/20/us/hurricane-maria-puerto-rico.html
+10.https://reliefweb.int/report/dominica/caribbean-hurricane-maria-flash-update-no1-19-september-2017-1700-gmt-5
+
+
+Query 3: (DACCA)
+
+Google Search Engine Result
+
+1. https://www.uscis.gov/archive/consideration-deferred-action-childhood-arrivals-daca
+2. https://en.wikipedia.org/wiki/Deferred_Action_for_Childhood_Arrivals
+3. https://undocu.berkeley.edu/legal-support-overview/what-is-daca/
+4. http://www.bbc.com/news/av/world-us-canada-41317947/daca-nancy-pelosi-heckled-as-liar-in-dreamers-protest
+5. http://www.latimes.com/local/california/la-me-daca-parents-20170919-story.html
+6. http://www.nbcbayarea.com/news/local/Dreamers-Accuse-Pelosi-Other-Dems-of-Deportation-445419613.html
+7. http://thehill.com/latino/351365-democratic-lawmakers-arrested-outside-trump-tower-for-daca-protest
+8. http://www.politico.com/story/2017/09/19/daca-fix-california-xavier-becerra-242880
+9. http://time.com/daca-dream-act-jose-antonio-vargas-time-cover-revisited/
+10.https://www.nytimes.com/2017/08/27/us/politics/dreamers-trump-lawsuit.html
+
+
+Bing Search Engine Result
+ 
+1. https://www.uscis.gov/archive/consideration-deferred-action-childhood-arrivals-daca
+2. https://en.wikipedia.org/wiki/Deferred_Action_for_Childhood_Arrivals
+3. http://www.cnn.com/2017/09/04/politics/daca-dreamers-immigration-program/index.html
+4. http://www.immigrationequality.org/get-legal-help/our-legal-resources/path-to-status-in-the-u-s/daca-deferred-action-for-childhood-arrivals/
+5. https://www.nilc.org/issues/daca/
+6. https://undocu.berkeley.edu/legal-support-overview/what-is-daca/
+7. http://www.npr.org/2017/09/05/546423550/trump-signals-end-to-daca-calls-on-congress-to-act
+8. https://www.uscis.gov/humanitarian/consideration-deferred-action-childhood-arrivals-process/renew-your-daca
+9. https://www.theguardian.com/us-news/2017/sep/04/donald-trump-what-is-daca-dreamers
+10. http://www.politico.com/story/2017/09/03/trump-dreamers-immigration-daca-immigrants-242301

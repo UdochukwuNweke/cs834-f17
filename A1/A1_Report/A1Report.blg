@@ -1,0 +1,59 @@
+This is BibTeX, Version 0.99d (TeX Live 2015/Debian)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: A1Report.aux
+The style file: plain.bst
+Database file #1: A1Ref.bib
+Warning--entry type for "pciBook" isn't style-file defined
+--line 1 of file A1Ref.bib
+I was expecting a `,' or a `}'---line 3 of file A1Ref.bib
+ :  
+ :  title = {{I}nformation {R}etrieval {I}n {P}ractice},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Repeated entry---line 17 of file A1Ref.bib
+ : @misc{aimm
+ :           ,
+I'm skipping whatever remains of this entry
+Warning--to sort, need author or key in aimm
+You've used 2 entries,
+            2118 wiz_defined-function locations,
+            504 strings with 4141 characters,
+and the built_in function-call counts, 369 in all, are:
+= -- 30
+> -- 8
+< -- 0
++ -- 4
+- -- 2
+* -- 12
+:= -- 56
+add.period$ -- 4
+call.type$ -- 2
+change.case$ -- 6
+chr.to.int$ -- 0
+cite$ -- 3
+duplicate$ -- 14
+empty$ -- 46
+format.name$ -- 2
+if$ -- 82
+int.to.chr$ -- 0
+int.to.str$ -- 2
+missing$ -- 0
+newline$ -- 11
+num.names$ -- 2
+pop$ -- 18
+preamble$ -- 1
+purify$ -- 5
+quote$ -- 0
+skip$ -- 17
+stack$ -- 0
+substring$ -- 10
+swap$ -- 2
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 8
+warning$ -- 1
+while$ -- 2
+width$ -- 3
+write$ -- 16
+(There were 2 error messages)
