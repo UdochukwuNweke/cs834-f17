@@ -1,0 +1,23 @@
+\begin{thebibliography}{1}
+
+\bibitem{CountVectorizer}
+{C}ountvectorizer.
+\newblock http://scikit\-learn.org/stable/modules/feature\_extraction.html.
+\newblock Accessed: 2017-10-10.
+
+\bibitem{SearchEngines}
+{I}nformation {R}etrieval {i}n {P}ractice.
+\newblock http://bl.ocks.org/majetisiri/316e3a1537b469154779.
+\newblock Accessed: 2017-10-10.
+
+\bibitem{Justext}
+{J}ustext.
+\newblock https://pypi.python.org/pypi/jusText/2.1.1.
+\newblock Accessed: 2017-10-10.
+
+\bibitem{PorterStemmer}
+{P}orterstemmer.
+\newblock https://pypi.python.org/pypi/PorterStemmer.
+\newblock Accessed: 2017-10-10.
+
+\end{thebibliography}
