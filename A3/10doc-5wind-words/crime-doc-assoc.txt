@@ -1,0 +1,88 @@
+
+crime vs
+	 1 term: yoruba MIM: 0.02
+	 2 term: statesfederal MIM: 0.02
+	 3 term: ncavc MIM: 0.02
+	 4 term: prosecutive MIM: 0.02
+	 5 term: manfrom MIM: 0.02
+	 6 term: encyclopediahugh MIM: 0.02
+	 7 term: brenner MIM: 0.02
+	 8 term: scow MIM: 0.02
+	 9 term: gadgetry MIM: 0.02
+	 10 term: blackhawks MIM: 0.02
+	 11 term: walkie MIM: 0.02
+	 12 term: emanating MIM: 0.02
+	 13 term: grinning MIM: 0.02
+	 14 term: comicsiron MIM: 0.02
+	 15 term: anticipates MIM: 0.02
+	 16 term: elektro MIM: 0.02
+	 17 term: porthole MIM: 0.02
+	 18 term: serialthe MIM: 0.02
+	 19 term: creeps MIM: 0.02
+	 20 term: 1423 MIM: 0.02
+
+crime vs
+	 1 term: police EMIM: 24.56279066035029
+	 2 term: control EMIM: 24.018091116169344
+	 3 term: criminal EMIM: 20.058240216725565
+	 4 term: committed EMIM: 19.815955538912753
+	 5 term: involved EMIM: 19.61117919616936
+	 6 term: time EMIM: 19.303214702972948
+	 7 term: did EMIM: 18.947457445836797
+	 8 term: life EMIM: 18.945625228414862
+	 9 term: order EMIM: 18.412293512899826
+	 10 term: crimes EMIM: 18.11130361743786
+	 11 term: people EMIM: 18.068867412006405
+	 12 term: given EMIM: 18.041580792256095
+	 13 term: story EMIM: 17.735412664677355
+	 14 term: years EMIM: 17.448250980961724
+	 15 term: investigation EMIM: 17.147978433910787
+	 16 term: man EMIM: 16.90377952340753
+	 17 term: united EMIM: 16.61696337086141
+	 18 term: use EMIM: 16.608942560344648
+	 19 term: 11 EMIM: 16.562925273738095
+	 20 term: held EMIM: 16.562925273738095
+
+crime vs
+	 1 term: crimes CHI-SQUARE: 0.07706657765058691
+	 2 term: criminal CHI-SQUARE: 0.07086953435627318
+	 3 term: jail CHI-SQUARE: 0.0706873498860967
+	 4 term: prosecution CHI-SQUARE: 0.06770206151554588
+	 5 term: committing CHI-SQUARE: 0.06770206151554588
+	 6 term: burglary CHI-SQUARE: 0.059011060280781964
+	 7 term: committed CHI-SQUARE: 0.0557624922675014
+	 8 term: police CHI-SQUARE: 0.055580342199785644
+	 9 term: interrogation CHI-SQUARE: 0.05391280127708052
+	 10 term: investigation CHI-SQUARE: 0.049435099618788975
+	 11 term: guilty CHI-SQUARE: 0.04615696145458514
+	 12 term: culprit CHI-SQUARE: 0.04439980836216127
+	 13 term: offenders CHI-SQUARE: 0.044012429927504045
+	 14 term: contra CHI-SQUARE: 0.044012429927504045
+	 15 term: laundering CHI-SQUARE: 0.044012429927504045
+	 16 term: conspirators CHI-SQUARE: 0.044012429927504045
+	 17 term: incriminating CHI-SQUARE: 0.044012429927504045
+	 18 term: parole CHI-SQUARE: 0.044012429927504045
+	 19 term: trial CHI-SQUARE: 0.04387965395724099
+	 20 term: confessed CHI-SQUARE: 0.043814530469514605
+
+crime vs
+	 1 term: crimes DICE: 0.1375
+	 2 term: criminal DICE: 0.1368421052631579
+	 3 term: jail DICE: 0.125
+	 4 term: committed DICE: 0.12173913043478261
+	 5 term: investigation DICE: 0.11538461538461539
+	 6 term: police DICE: 0.11377245508982035
+	 7 term: prosecution DICE: 0.109375
+	 8 term: committing DICE: 0.109375
+	 9 term: trial DICE: 0.10891089108910891
+	 10 term: guilty DICE: 0.10843373493975904
+	 11 term: murder DICE: 0.10619469026548672
+	 12 term: sentence DICE: 0.10344827586206896
+	 13 term: sentenced DICE: 0.10256410256410256
+	 14 term: alleged DICE: 0.1
+	 15 term: convicted DICE: 0.0975609756097561
+	 16 term: learned DICE: 0.09401709401709402
+	 17 term: imprisonment DICE: 0.09210526315789473
+	 18 term: adults DICE: 0.09195402298850575
+	 19 term: investigations DICE: 0.09090909090909091
+	 20 term: fbi DICE: 0.09090909090909091

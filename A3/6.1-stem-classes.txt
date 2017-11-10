@@ -1,0 +1,5375 @@
+stem: aaa
+	stem class: ['aaa', 'aaas'] 
+
+	pair: ('aaa', 'aaas')
+	dice: 0
+	 0 of 617 
+
+
+stem: ab
+	stem class: ['ab', 'abe', 'abed', 'abs'] 
+
+	pair: ('ab', 'abe')
+	dice: 0
+	 1 of 617 
+
+	pair: ('ab', 'abed')
+	dice: 0
+	 1 of 617 
+
+	pair: ('ab', 'abs')
+	dice: 0
+	 1 of 617 
+
+	pair: ('abe', 'abed')
+	dice: 0
+	 1 of 617 
+
+	pair: ('abe', 'abs')
+	dice: 0
+	 1 of 617 
+
+	pair: ('abed', 'abs')
+	dice: 0
+	 1 of 617 
+
+
+stem: abandon
+	stem class: ['abandon', 'abandoned', 'abandoning', 'abandonment'] 
+
+	pair: ('abandon', 'abandoned')
+	dice: 0.057692307692307696
+	 2 of 617 
+
+	pair: ('abandon', 'abandoning')
+	dice: 0
+	 2 of 617 
+
+	pair: ('abandon', 'abandonment')
+	dice: 0.045454545454545456
+	 2 of 617 
+
+	pair: ('abandoned', 'abandoning')
+	dice: 0.021052631578947368
+	 2 of 617 
+
+	pair: ('abandoned', 'abandonment')
+	dice: 0.031914893617021274
+	 2 of 617 
+
+	pair: ('abandoning', 'abandonment')
+	dice: 0
+	 2 of 617 
+
+
+stem: abba
+	stem class: ['abba', 'abbas'] 
+
+	pair: ('abba', 'abbas')
+	dice: 0
+	 3 of 617 
+
+
+stem: abbess
+	stem class: ['abbess', 'abbesses'] 
+
+	pair: ('abbess', 'abbesses')
+	dice: 0
+	 4 of 617 
+
+
+stem: abbei
+	stem class: ['abbey', 'abbeys'] 
+
+	pair: ('abbey', 'abbeys')
+	dice: 0.043478260869565216
+	 5 of 617 
+
+
+stem: abbot
+	stem class: ['abbot', 'abbots'] 
+
+	pair: ('abbot', 'abbots')
+	dice: 0.09090909090909091
+	 6 of 617 
+
+
+stem: abbott
+	stem class: ['abbott', 'abbotts'] 
+
+	pair: ('abbott', 'abbotts')
+	dice: 0
+	 7 of 617 
+
+
+stem: abbrevi
+	stem class: ['abbreviated', 'abbreviation', 'abbreviations'] 
+
+	pair: ('abbreviated', 'abbreviation')
+	dice: 0
+	 8 of 617 
+
+	pair: ('abbreviated', 'abbreviations')
+	dice: 0.05555555555555555
+	 8 of 617 
+
+	pair: ('abbreviation', 'abbreviations')
+	dice: 0
+	 8 of 617 
+
+
+stem: abdic
+	stem class: ['abdicate', 'abdicating', 'abdication'] 
+
+	pair: ('abdicate', 'abdicating')
+	dice: 0
+	 9 of 617 
+
+	pair: ('abdicate', 'abdication')
+	dice: 0
+	 9 of 617 
+
+	pair: ('abdicating', 'abdication')
+	dice: 0
+	 9 of 617 
+
+
+stem: abduct
+	stem class: ['abduct', 'abducted', 'abduction', 'abductions'] 
+
+	pair: ('abduct', 'abducted')
+	dice: 0
+	 10 of 617 
+
+	pair: ('abduct', 'abduction')
+	dice: 0
+	 10 of 617 
+
+	pair: ('abduct', 'abductions')
+	dice: 0
+	 10 of 617 
+
+	pair: ('abducted', 'abduction')
+	dice: 0.07692307692307693
+	 10 of 617 
+
+	pair: ('abducted', 'abductions')
+	dice: 0.14285714285714285
+	 10 of 617 
+
+	pair: ('abduction', 'abductions')
+	dice: 0.125
+	 10 of 617 
+
+
+stem: abducte
+	stem class: ['abductee', 'abductees'] 
+
+	pair: ('abductee', 'abductees')
+	dice: 0
+	 11 of 617 
+
+
+stem: abid
+	stem class: ['abide', 'abiding'] 
+
+	pair: ('abide', 'abiding')
+	dice: 0
+	 12 of 617 
+
+
+stem: abil
+	stem class: ['abilities', 'ability'] 
+
+	pair: ('abilities', 'ability')
+	dice: 0.10614525139664804
+	 13 of 617 
+
+
+stem: abl
+	stem class: ['able', 'abled', 'ables'] 
+
+	pair: ('able', 'abled')
+	dice: 0
+	 14 of 617 
+
+	pair: ('able', 'ables')
+	dice: 0.004405286343612335
+	 14 of 617 
+
+	pair: ('abled', 'ables')
+	dice: 0
+	 14 of 617 
+
+
+stem: abnorm
+	stem class: ['abnormal', 'abnormalities', 'abnormality', 'abnormally'] 
+
+	pair: ('abnormal', 'abnormalities')
+	dice: 0
+	 15 of 617 
+
+	pair: ('abnormal', 'abnormality')
+	dice: 0
+	 15 of 617 
+
+	pair: ('abnormal', 'abnormally')
+	dice: 0
+	 15 of 617 
+
+	pair: ('abnormalities', 'abnormality')
+	dice: 0
+	 15 of 617 
+
+	pair: ('abnormalities', 'abnormally')
+	dice: 0
+	 15 of 617 
+
+	pair: ('abnormality', 'abnormally')
+	dice: 0
+	 15 of 617 
+
+
+stem: abolish
+	stem class: ['abolish', 'abolished', 'abolishing'] 
+
+	pair: ('abolish', 'abolished')
+	dice: 0
+	 16 of 617 
+
+	pair: ('abolish', 'abolishing')
+	dice: 0
+	 16 of 617 
+
+	pair: ('abolished', 'abolishing')
+	dice: 0
+	 16 of 617 
+
+
+stem: abomin
+	stem class: ['abomination', 'abominations'] 
+
+	pair: ('abomination', 'abominations')
+	dice: 0.3333333333333333
+	 17 of 617 
+
+
+stem: aborigin
+	stem class: ['aboriginal', 'aborigines'] 
+
+	pair: ('aboriginal', 'aborigines')
+	dice: 0.1875
+	 18 of 617 
+
+
+stem: abort
+	stem class: ['abort', 'aborted', 'abortion', 'abortive'] 
+
+	pair: ('abort', 'aborted')
+	dice: 0
+	 19 of 617 
+
+	pair: ('abort', 'abortion')
+	dice: 0.1111111111111111
+	 19 of 617 
+
+	pair: ('abort', 'abortive')
+	dice: 0
+	 19 of 617 
+
+	pair: ('aborted', 'abortion')
+	dice: 0
+	 19 of 617 
+
+	pair: ('aborted', 'abortive')
+	dice: 0
+	 19 of 617 
+
+	pair: ('abortion', 'abortive')
+	dice: 0
+	 19 of 617 
+
+
+stem: abound
+	stem class: ['abound', 'abounded', 'abounds'] 
+
+	pair: ('abound', 'abounded')
+	dice: 0
+	 20 of 617 
+
+	pair: ('abound', 'abounds')
+	dice: 0
+	 20 of 617 
+
+	pair: ('abounded', 'abounds')
+	dice: 0
+	 20 of 617 
+
+
+stem: abram
+	stem class: ['abram', 'abrams'] 
+
+	pair: ('abram', 'abrams')
+	dice: 0
+	 21 of 617 
+
+
+stem: abras
+	stem class: ['abrasive', 'abrasiveness'] 
+
+	pair: ('abrasive', 'abrasiveness')
+	dice: 0
+	 22 of 617 
+
+
+stem: abridg
+	stem class: ['abridged', 'abridgement', 'abridging', 'abridgment'] 
+
+	pair: ('abridged', 'abridgement')
+	dice: 0
+	 23 of 617 
+
+	pair: ('abridged', 'abridging')
+	dice: 0
+	 23 of 617 
+
+	pair: ('abridged', 'abridgment')
+	dice: 0
+	 23 of 617 
+
+	pair: ('abridgement', 'abridging')
+	dice: 0.5
+	 23 of 617 
+
+	pair: ('abridgement', 'abridgment')
+	dice: 0.5
+	 23 of 617 
+
+	pair: ('abridging', 'abridgment')
+	dice: 0.5
+	 23 of 617 
+
+
+stem: abrog
+	stem class: ['abrogated', 'abrogation'] 
+
+	pair: ('abrogated', 'abrogation')
+	dice: 0.25
+	 24 of 617 
+
+
+stem: abscond
+	stem class: ['absconded', 'absconding'] 
+
+	pair: ('absconded', 'absconding')
+	dice: 0
+	 25 of 617 
+
+
+stem: absenc
+	stem class: ['absence', 'absences'] 
+
+	pair: ('absence', 'absences')
+	dice: 0
+	 26 of 617 
+
+
+stem: absent
+	stem class: ['absent', 'absented'] 
+
+	pair: ('absent', 'absented')
+	dice: 0.041666666666666664
+	 27 of 617 
+
+
+stem: absolut
+	stem class: ['absolut', 'absolute', 'absolutely', 'absolutes', 'absolution', 'absolutism'] 
+
+	pair: ('absolut', 'absolute')
+	dice: 0
+	 28 of 617 
+
+	pair: ('absolut', 'absolutely')
+	dice: 0
+	 28 of 617 
+
+	pair: ('absolut', 'absolutes')
+	dice: 0
+	 28 of 617 
+
+	pair: ('absolut', 'absolution')
+	dice: 0
+	 28 of 617 
+
+	pair: ('absolut', 'absolutism')
+	dice: 0
+	 28 of 617 
+
+	pair: ('absolute', 'absolutely')
+	dice: 0.058823529411764705
+	 28 of 617 
+
+	pair: ('absolute', 'absolutes')
+	dice: 0.047619047619047616
+	 28 of 617 
+
+	pair: ('absolute', 'absolution')
+	dice: 0.045454545454545456
+	 28 of 617 
+
+	pair: ('absolute', 'absolutism')
+	dice: 0
+	 28 of 617 
+
+	pair: ('absolutely', 'absolutes')
+	dice: 0
+	 28 of 617 
+
+	pair: ('absolutely', 'absolution')
+	dice: 0.0625
+	 28 of 617 
+
+	pair: ('absolutely', 'absolutism')
+	dice: 0
+	 28 of 617 
+
+	pair: ('absolutes', 'absolution')
+	dice: 0
+	 28 of 617 
+
+	pair: ('absolutes', 'absolutism')
+	dice: 0
+	 28 of 617 
+
+	pair: ('absolution', 'absolutism')
+	dice: 0
+	 28 of 617 
+
+
+stem: absolv
+	stem class: ['absolve', 'absolved'] 
+
+	pair: ('absolve', 'absolved')
+	dice: 0.2
+	 29 of 617 
+
+
+stem: absorb
+	stem class: ['absorb', 'absorbance', 'absorbed', 'absorbency', 'absorbent', 'absorbing', 'absorbs'] 
+
+	pair: ('absorb', 'absorbance')
+	dice: 0
+	 30 of 617 
+
+	pair: ('absorb', 'absorbed')
+	dice: 0
+	 30 of 617 
+
+	pair: ('absorb', 'absorbency')
+	dice: 0
+	 30 of 617 
+
+	pair: ('absorb', 'absorbent')
+	dice: 0
+	 30 of 617 
+
+	pair: ('absorb', 'absorbing')
+	dice: 0
+	 30 of 617 
+
+	pair: ('absorb', 'absorbs')
+	dice: 0
+	 30 of 617 
+
+	pair: ('absorbance', 'absorbed')
+	dice: 0
+	 30 of 617 
+
+	pair: ('absorbance', 'absorbency')
+	dice: 0
+	 30 of 617 
+
+	pair: ('absorbance', 'absorbent')
+	dice: 0
+	 30 of 617 
+
+	pair: ('absorbance', 'absorbing')
+	dice: 0
+	 30 of 617 
+
+	pair: ('absorbance', 'absorbs')
+	dice: 0
+	 30 of 617 
+
+	pair: ('absorbed', 'absorbency')
+	dice: 0
+	 30 of 617 
+
+	pair: ('absorbed', 'absorbent')
+	dice: 0
+	 30 of 617 
+
+	pair: ('absorbed', 'absorbing')
+	dice: 0.06896551724137931
+	 30 of 617 
+
+	pair: ('absorbed', 'absorbs')
+	dice: 0.041666666666666664
+	 30 of 617 
+
+	pair: ('absorbency', 'absorbent')
+	dice: 0
+	 30 of 617 
+
+	pair: ('absorbency', 'absorbing')
+	dice: 0
+	 30 of 617 
+
+	pair: ('absorbency', 'absorbs')
+	dice: 0
+	 30 of 617 
+
+	pair: ('absorbent', 'absorbing')
+	dice: 0
+	 30 of 617 
+
+	pair: ('absorbent', 'absorbs')
+	dice: 0
+	 30 of 617 
+
+	pair: ('absorbing', 'absorbs')
+	dice: 0.06666666666666667
+	 30 of 617 
+
+
+stem: abstent
+	stem class: ['abstention', 'abstentions'] 
+
+	pair: ('abstention', 'abstentions')
+	dice: 0
+	 31 of 617 
+
+
+stem: abstract
+	stem class: ['abstract', 'abstracted', 'abstraction', 'abstractions', 'abstracts'] 
+
+	pair: ('abstract', 'abstracted')
+	dice: 0
+	 32 of 617 
+
+	pair: ('abstract', 'abstraction')
+	dice: 0.13636363636363635
+	 32 of 617 
+
+	pair: ('abstract', 'abstractions')
+	dice: 0.05555555555555555
+	 32 of 617 
+
+	pair: ('abstract', 'abstracts')
+	dice: 0
+	 32 of 617 
+
+	pair: ('abstracted', 'abstraction')
+	dice: 0
+	 32 of 617 
+
+	pair: ('abstracted', 'abstractions')
+	dice: 0
+	 32 of 617 
+
+	pair: ('abstracted', 'abstracts')
+	dice: 0
+	 32 of 617 
+
+	pair: ('abstraction', 'abstractions')
+	dice: 0.16666666666666666
+	 32 of 617 
+
+	pair: ('abstraction', 'abstracts')
+	dice: 0
+	 32 of 617 
+
+	pair: ('abstractions', 'abstracts')
+	dice: 0
+	 32 of 617 
+
+
+stem: abstrus
+	stem class: ['abstruse', 'abstrusely'] 
+
+	pair: ('abstruse', 'abstrusely')
+	dice: 0
+	 33 of 617 
+
+
+stem: absurd
+	stem class: ['absurd', 'absurdity'] 
+
+	pair: ('absurd', 'absurdity')
+	dice: 0
+	 34 of 617 
+
+
+stem: abt
+	stem class: ['abt', 'abts'] 
+
+	pair: ('abt', 'abts')
+	dice: 0.3333333333333333
+	 35 of 617 
+
+
+stem: abugida
+	stem class: ['abugida', 'abugidas'] 
+
+	pair: ('abugida', 'abugidas')
+	dice: 0.5
+	 36 of 617 
+
+
+stem: abund
+	stem class: ['abundance', 'abundant'] 
+
+	pair: ('abundance', 'abundant')
+	dice: 0
+	 37 of 617 
+
+
+stem: abus
+	stem class: ['abuse', 'abused', 'abusers', 'abuses', 'abusing', 'abusive'] 
+
+	pair: ('abuse', 'abused')
+	dice: 0.05555555555555555
+	 38 of 617 
+
+	pair: ('abuse', 'abusers')
+	dice: 0.03125
+	 38 of 617 
+
+	pair: ('abuse', 'abuses')
+	dice: 0.027777777777777776
+	 38 of 617 
+
+	pair: ('abuse', 'abusing')
+	dice: 0
+	 38 of 617 
+
+	pair: ('abuse', 'abusive')
+	dice: 0.02857142857142857
+	 38 of 617 
+
+	pair: ('abused', 'abusers')
+	dice: 0
+	 38 of 617 
+
+	pair: ('abused', 'abuses')
+	dice: 0
+	 38 of 617 
+
+	pair: ('abused', 'abusing')
+	dice: 0
+	 38 of 617 
+
+	pair: ('abused', 'abusive')
+	dice: 0
+	 38 of 617 
+
+	pair: ('abusers', 'abuses')
+	dice: 0
+	 38 of 617 
+
+	pair: ('abusers', 'abusing')
+	dice: 0
+	 38 of 617 
+
+	pair: ('abusers', 'abusive')
+	dice: 0
+	 38 of 617 
+
+	pair: ('abuses', 'abusing')
+	dice: 0
+	 38 of 617 
+
+	pair: ('abuses', 'abusive')
+	dice: 0
+	 38 of 617 
+
+	pair: ('abusing', 'abusive')
+	dice: 0
+	 38 of 617 
+
+
+stem: abysm
+	stem class: ['abysm', 'abysmal'] 
+
+	pair: ('abysm', 'abysmal')
+	dice: 0
+	 39 of 617 
+
+
+stem: abyss
+	stem class: ['abyss', 'abyssal'] 
+
+	pair: ('abyss', 'abyssal')
+	dice: 0
+	 40 of 617 
+
+
+stem: abyssinian
+	stem class: ['abyssinian', 'abyssinians'] 
+
+	pair: ('abyssinian', 'abyssinians')
+	dice: 0
+	 41 of 617 
+
+
+stem: ac
+	stem class: ['ac', 'ace', 'acs'] 
+
+	pair: ('ac', 'ace')
+	dice: 0
+	 42 of 617 
+
+	pair: ('ac', 'acs')
+	dice: 0
+	 42 of 617 
+
+	pair: ('ace', 'acs')
+	dice: 0
+	 42 of 617 
+
+
+stem: academ
+	stem class: ['academe', 'academic', 'academically', 'academics'] 
+
+	pair: ('academe', 'academic')
+	dice: 0
+	 43 of 617 
+
+	pair: ('academe', 'academically')
+	dice: 0
+	 43 of 617 
+
+	pair: ('academe', 'academics')
+	dice: 0
+	 43 of 617 
+
+	pair: ('academic', 'academically')
+	dice: 0.013157894736842105
+	 43 of 617 
+
+	pair: ('academic', 'academics')
+	dice: 0.05
+	 43 of 617 
+
+	pair: ('academically', 'academics')
+	dice: 0
+	 43 of 617 
+
+
+stem: academician
+	stem class: ['academician', 'academicians'] 
+
+	pair: ('academician', 'academicians')
+	dice: 0.4
+	 44 of 617 
+
+
+stem: academi
+	stem class: ['academies', 'academy'] 
+
+	pair: ('academies', 'academy')
+	dice: 0.02564102564102564
+	 45 of 617 
+
+
+stem: acceler
+	stem class: ['accelerate', 'accelerated', 'accelerates', 'accelerating', 'acceleration', 'accelerations', 'accelerator', 'accelerators'] 
+
+	pair: ('accelerate', 'accelerated')
+	dice: 0
+	 46 of 617 
+
+	pair: ('accelerate', 'accelerates')
+	dice: 0.1
+	 46 of 617 
+
+	pair: ('accelerate', 'accelerating')
+	dice: 0
+	 46 of 617 
+
+	pair: ('accelerate', 'acceleration')
+	dice: 0.14285714285714285
+	 46 of 617 
+
+	pair: ('accelerate', 'accelerations')
+	dice: 0.2222222222222222
+	 46 of 617 
+
+	pair: ('accelerate', 'accelerator')
+	dice: 0
+	 46 of 617 
+
+	pair: ('accelerate', 'accelerators')
+	dice: 0
+	 46 of 617 
+
+	pair: ('accelerated', 'accelerates')
+	dice: 0
+	 46 of 617 
+
+	pair: ('accelerated', 'accelerating')
+	dice: 0
+	 46 of 617 
+
+	pair: ('accelerated', 'acceleration')
+	dice: 0.07142857142857142
+	 46 of 617 
+
+	pair: ('accelerated', 'accelerations')
+	dice: 0
+	 46 of 617 
+
+	pair: ('accelerated', 'accelerator')
+	dice: 0.1111111111111111
+	 46 of 617 
+
+	pair: ('accelerated', 'accelerators')
+	dice: 0.125
+	 46 of 617 
+
+	pair: ('accelerates', 'accelerating')
+	dice: 0
+	 46 of 617 
+
+	pair: ('accelerates', 'acceleration')
+	dice: 0.08333333333333333
+	 46 of 617 
+
+	pair: ('accelerates', 'accelerations')
+	dice: 0.2857142857142857
+	 46 of 617 
+
+	pair: ('accelerates', 'accelerator')
+	dice: 0
+	 46 of 617 
+
+	pair: ('accelerates', 'accelerators')
+	dice: 0
+	 46 of 617 
+
+	pair: ('accelerating', 'acceleration')
+	dice: 0.09090909090909091
+	 46 of 617 
+
+	pair: ('accelerating', 'accelerations')
+	dice: 0
+	 46 of 617 
+
+	pair: ('accelerating', 'accelerator')
+	dice: 0.16666666666666666
+	 46 of 617 
+
+	pair: ('accelerating', 'accelerators')
+	dice: 0.2
+	 46 of 617 
+
+	pair: ('acceleration', 'accelerations')
+	dice: 0.18181818181818182
+	 46 of 617 
+
+	pair: ('acceleration', 'accelerator')
+	dice: 0
+	 46 of 617 
+
+	pair: ('acceleration', 'accelerators')
+	dice: 0
+	 46 of 617 
+
+	pair: ('accelerations', 'accelerator')
+	dice: 0
+	 46 of 617 
+
+	pair: ('accelerations', 'accelerators')
+	dice: 0
+	 46 of 617 
+
+	pair: ('accelerator', 'accelerators')
+	dice: 0.4
+	 46 of 617 
+
+
+stem: accent
+	stem class: ['accent', 'accented', 'accents'] 
+
+	pair: ('accent', 'accented')
+	dice: 0.06666666666666667
+	 47 of 617 
+
+	pair: ('accent', 'accents')
+	dice: 0
+	 47 of 617 
+
+	pair: ('accented', 'accents')
+	dice: 0
+	 47 of 617 
+
+
+stem: accentu
+	stem class: ['accentuate', 'accentuated'] 
+
+	pair: ('accentuate', 'accentuated')
+	dice: 0
+	 48 of 617 
+
+
+stem: accept
+	stem class: ['accept', 'acceptable', 'acceptance', 'accepted', 'accepting', 'accepts'] 
+
+	pair: ('accept', 'acceptable')
+	dice: 0.05194805194805195
+	 49 of 617 
+
+	pair: ('accept', 'acceptance')
+	dice: 0.04597701149425287
+	 49 of 617 
+
+	pair: ('accept', 'accepted')
+	dice: 0.08441558441558442
+	 49 of 617 
+
+	pair: ('accept', 'accepting')
+	dice: 0.03896103896103896
+	 49 of 617 
+
+	pair: ('accept', 'accepts')
+	dice: 0.029411764705882353
+	 49 of 617 
+
+	pair: ('acceptable', 'acceptance')
+	dice: 0.020833333333333332
+	 49 of 617 
+
+	pair: ('acceptable', 'accepted')
+	dice: 0.034782608695652174
+	 49 of 617 
+
+	pair: ('acceptable', 'accepting')
+	dice: 0
+	 49 of 617 
+
+	pair: ('acceptable', 'accepts')
+	dice: 0.034482758620689655
+	 49 of 617 
+
+	pair: ('acceptance', 'accepted')
+	dice: 0.064
+	 49 of 617 
+
+	pair: ('acceptance', 'accepting')
+	dice: 0.020833333333333332
+	 49 of 617 
+
+	pair: ('acceptance', 'accepts')
+	dice: 0
+	 49 of 617 
+
+	pair: ('accepted', 'accepting')
+	dice: 0.008695652173913044
+	 49 of 617 
+
+	pair: ('accepted', 'accepts')
+	dice: 0.018867924528301886
+	 49 of 617 
+
+	pair: ('accepting', 'accepts')
+	dice: 0
+	 49 of 617 
+
+
+stem: access
+	stem class: ['access', 'accessed', 'accessibility', 'accessible', 'accessing', 'accession', 'accessioned'] 
+
+	pair: ('access', 'accessed')
+	dice: 0.023255813953488372
+	 50 of 617 
+
+	pair: ('access', 'accessibility')
+	dice: 0.025
+	 50 of 617 
+
+	pair: ('access', 'accessible')
+	dice: 0.0738255033557047
+	 50 of 617 
+
+	pair: ('access', 'accessing')
+	dice: 0.025423728813559324
+	 50 of 617 
+
+	pair: ('access', 'accession')
+	dice: 0.015873015873015872
+	 50 of 617 
+
+	pair: ('access', 'accessioned')
+	dice: 0
+	 50 of 617 
+
+	pair: ('accessed', 'accessibility')
+	dice: 0
+	 50 of 617 
+
+	pair: ('accessed', 'accessible')
+	dice: 0.05555555555555555
+	 50 of 617 
+
+	pair: ('accessed', 'accessing')
+	dice: 0
+	 50 of 617 
+
+	pair: ('accessed', 'accession')
+	dice: 0
+	 50 of 617 
+
+	pair: ('accessed', 'accessioned')
+	dice: 0
+	 50 of 617 
+
+	pair: ('accessibility', 'accessible')
+	dice: 0.044444444444444446
+	 50 of 617 
+
+	pair: ('accessibility', 'accessing')
+	dice: 0
+	 50 of 617 
+
+	pair: ('accessibility', 'accession')
+	dice: 0
+	 50 of 617 
+
+	pair: ('accessibility', 'accessioned')
+	dice: 0
+	 50 of 617 
+
+	pair: ('accessible', 'accessing')
+	dice: 0
+	 50 of 617 
+
+	pair: ('accessible', 'accession')
+	dice: 0
+	 50 of 617 
+
+	pair: ('accessible', 'accessioned')
+	dice: 0
+	 50 of 617 
+
+	pair: ('accessing', 'accession')
+	dice: 0.05
+	 50 of 617 
+
+	pair: ('accessing', 'accessioned')
+	dice: 0
+	 50 of 617 
+
+	pair: ('accession', 'accessioned')
+	dice: 0
+	 50 of 617 
+
+
+stem: accessori
+	stem class: ['accessories', 'accessory'] 
+
+	pair: ('accessories', 'accessory')
+	dice: 0
+	 51 of 617 
+
+
+stem: accid
+	stem class: ['accident', 'accidents'] 
+
+	pair: ('accident', 'accidents')
+	dice: 0.030303030303030304
+	 52 of 617 
+
+
+stem: accident
+	stem class: ['accidental', 'accidentally'] 
+
+	pair: ('accidental', 'accidentally')
+	dice: 0.03571428571428571
+	 53 of 617 
+
+
+stem: acclaim
+	stem class: ['acclaim', 'acclaimed'] 
+
+	pair: ('acclaim', 'acclaimed')
+	dice: 0.027777777777777776
+	 54 of 617 
+
+
+stem: acclam
+	stem class: ['acclamation', 'acclamations'] 
+
+	pair: ('acclamation', 'acclamations')
+	dice: 0.3333333333333333
+	 55 of 617 
+
+
+stem: accommod
+	stem class: ['accommodate', 'accommodated', 'accommodates', 'accommodating', 'accommodation', 'accommodations'] 
+
+	pair: ('accommodate', 'accommodated')
+	dice: 0.05
+	 56 of 617 
+
+	pair: ('accommodate', 'accommodates')
+	dice: 0.02631578947368421
+	 56 of 617 
+
+	pair: ('accommodate', 'accommodating')
+	dice: 0.022727272727272728
+	 56 of 617 
+
+	pair: ('accommodate', 'accommodation')
+	dice: 0.041666666666666664
+	 56 of 617 
+
+	pair: ('accommodate', 'accommodations')
+	dice: 0
+	 56 of 617 
+
+	pair: ('accommodated', 'accommodates')
+	dice: 0
+	 56 of 617 
+
+	pair: ('accommodated', 'accommodating')
+	dice: 0.1
+	 56 of 617 
+
+	pair: ('accommodated', 'accommodation')
+	dice: 0
+	 56 of 617 
+
+	pair: ('accommodated', 'accommodations')
+	dice: 0
+	 56 of 617 
+
+	pair: ('accommodates', 'accommodating')
+	dice: 0
+	 56 of 617 
+
+	pair: ('accommodates', 'accommodation')
+	dice: 0
+	 56 of 617 
+
+	pair: ('accommodates', 'accommodations')
+	dice: 0
+	 56 of 617 
+
+	pair: ('accommodating', 'accommodation')
+	dice: 0
+	 56 of 617 
+
+	pair: ('accommodating', 'accommodations')
+	dice: 0
+	 56 of 617 
+
+	pair: ('accommodation', 'accommodations')
+	dice: 0
+	 56 of 617 
+
+
+stem: accompani
+	stem class: ['accompanied', 'accompanies', 'accompaniment', 'accompaniments', 'accompany', 'accompanying'] 
+
+	pair: ('accompanied', 'accompanies')
+	dice: 0
+	 57 of 617 
+
+	pair: ('accompanied', 'accompaniment')
+	dice: 0.0273972602739726
+	 57 of 617 
+
+	pair: ('accompanied', 'accompaniments')
+	dice: 0
+	 57 of 617 
+
+	pair: ('accompanied', 'accompany')
+	dice: 0.05063291139240506
+	 57 of 617 
+
+	pair: ('accompanied', 'accompanying')
+	dice: 0
+	 57 of 617 
+
+	pair: ('accompanies', 'accompaniment')
+	dice: 0
+	 57 of 617 
+
+	pair: ('accompanies', 'accompaniments')
+	dice: 0
+	 57 of 617 
+
+	pair: ('accompanies', 'accompany')
+	dice: 0
+	 57 of 617 
+
+	pair: ('accompanies', 'accompanying')
+	dice: 0
+	 57 of 617 
+
+	pair: ('accompaniment', 'accompaniments')
+	dice: 0.1
+	 57 of 617 
+
+	pair: ('accompaniment', 'accompany')
+	dice: 0.041666666666666664
+	 57 of 617 
+
+	pair: ('accompaniment', 'accompanying')
+	dice: 0.08
+	 57 of 617 
+
+	pair: ('accompaniments', 'accompany')
+	dice: 0
+	 57 of 617 
+
+	pair: ('accompaniments', 'accompanying')
+	dice: 0
+	 57 of 617 
+
+	pair: ('accompany', 'accompanying')
+	dice: 0.06451612903225806
+	 57 of 617 
+
+
+stem: accomplic
+	stem class: ['accomplice', 'accomplices'] 
+
+	pair: ('accomplice', 'accomplices')
+	dice: 0
+	 58 of 617 
+
+
+stem: accomplish
+	stem class: ['accomplish', 'accomplished', 'accomplishment', 'accomplishments'] 
+
+	pair: ('accomplish', 'accomplished')
+	dice: 0
+	 59 of 617 
+
+	pair: ('accomplish', 'accomplishment')
+	dice: 0
+	 59 of 617 
+
+	pair: ('accomplish', 'accomplishments')
+	dice: 0
+	 59 of 617 
+
+	pair: ('accomplished', 'accomplishment')
+	dice: 0.03225806451612903
+	 59 of 617 
+
+	pair: ('accomplished', 'accomplishments')
+	dice: 0.043478260869565216
+	 59 of 617 
+
+	pair: ('accomplishment', 'accomplishments')
+	dice: 0.043478260869565216
+	 59 of 617 
+
+
+stem: accord
+	stem class: ['accord', 'accordance', 'accorded', 'accordence', 'according', 'accords'] 
+
+	pair: ('accord', 'accordance')
+	dice: 0
+	 60 of 617 
+
+	pair: ('accord', 'accorded')
+	dice: 0
+	 60 of 617 
+
+	pair: ('accord', 'accordence')
+	dice: 0
+	 60 of 617 
+
+	pair: ('accord', 'according')
+	dice: 0.015723270440251572
+	 60 of 617 
+
+	pair: ('accord', 'accords')
+	dice: 0
+	 60 of 617 
+
+	pair: ('accordance', 'accorded')
+	dice: 0
+	 60 of 617 
+
+	pair: ('accordance', 'accordence')
+	dice: 0
+	 60 of 617 
+
+	pair: ('accordance', 'according')
+	dice: 0.009036144578313253
+	 60 of 617 
+
+	pair: ('accordance', 'accords')
+	dice: 0
+	 60 of 617 
+
+	pair: ('accorded', 'accordence')
+	dice: 0
+	 60 of 617 
+
+	pair: ('accorded', 'according')
+	dice: 0.0031746031746031746
+	 60 of 617 
+
+	pair: ('accorded', 'accords')
+	dice: 0
+	 60 of 617 
+
+	pair: ('accordence', 'according')
+	dice: 0.003215434083601286
+	 60 of 617 
+
+	pair: ('accordence', 'accords')
+	dice: 0
+	 60 of 617 
+
+	pair: ('according', 'accords')
+	dice: 0
+	 60 of 617 
+
+
+stem: accordion
+	stem class: ['accordion', 'accordions'] 
+
+	pair: ('accordion', 'accordions')
+	dice: 0
+	 61 of 617 
+
+
+stem: accost
+	stem class: ['accosted', 'accosting'] 
+
+	pair: ('accosted', 'accosting')
+	dice: 0
+	 62 of 617 
+
+
+stem: account
+	stem class: ['account', 'accountability', 'accountable', 'accountancy', 'accountant', 'accountants', 'accounted', 'accounting', 'accounts'] 
+
+	pair: ('account', 'accountability')
+	dice: 0
+	 63 of 617 
+
+	pair: ('account', 'accountable')
+	dice: 0
+	 63 of 617 
+
+	pair: ('account', 'accountancy')
+	dice: 0.010638297872340425
+	 63 of 617 
+
+	pair: ('account', 'accountant')
+	dice: 0
+	 63 of 617 
+
+	pair: ('account', 'accountants')
+	dice: 0.021052631578947368
+	 63 of 617 
+
+	pair: ('account', 'accounted')
+	dice: 0
+	 63 of 617 
+
+	pair: ('account', 'accounting')
+	dice: 0.027522935779816515
+	 63 of 617 
+
+	pair: ('account', 'accounts')
+	dice: 0.07586206896551724
+	 63 of 617 
+
+	pair: ('accountability', 'accountable')
+	dice: 0
+	 63 of 617 
+
+	pair: ('accountability', 'accountancy')
+	dice: 0
+	 63 of 617 
+
+	pair: ('accountability', 'accountant')
+	dice: 0
+	 63 of 617 
+
+	pair: ('accountability', 'accountants')
+	dice: 0
+	 63 of 617 
+
+	pair: ('accountability', 'accounted')
+	dice: 0
+	 63 of 617 
+
+	pair: ('accountability', 'accounting')
+	dice: 0
+	 63 of 617 
+
+	pair: ('accountability', 'accounts')
+	dice: 0
+	 63 of 617 
+
+	pair: ('accountable', 'accountancy')
+	dice: 0
+	 63 of 617 
+
+	pair: ('accountable', 'accountant')
+	dice: 0
+	 63 of 617 
+
+	pair: ('accountable', 'accountants')
+	dice: 0
+	 63 of 617 
+
+	pair: ('accountable', 'accounted')
+	dice: 0
+	 63 of 617 
+
+	pair: ('accountable', 'accounting')
+	dice: 0
+	 63 of 617 
+
+	pair: ('accountable', 'accounts')
+	dice: 0.017543859649122806
+	 63 of 617 
+
+	pair: ('accountancy', 'accountant')
+	dice: 0
+	 63 of 617 
+
+	pair: ('accountancy', 'accountants')
+	dice: 0.4
+	 63 of 617 
+
+	pair: ('accountancy', 'accounted')
+	dice: 0
+	 63 of 617 
+
+	pair: ('accountancy', 'accounting')
+	dice: 0
+	 63 of 617 
+
+	pair: ('accountancy', 'accounts')
+	dice: 0
+	 63 of 617 
+
+	pair: ('accountant', 'accountants')
+	dice: 0
+	 63 of 617 
+
+	pair: ('accountant', 'accounted')
+	dice: 0
+	 63 of 617 
+
+	pair: ('accountant', 'accounting')
+	dice: 0.047619047619047616
+	 63 of 617 
+
+	pair: ('accountant', 'accounts')
+	dice: 0
+	 63 of 617 
+
+	pair: ('accountants', 'accounted')
+	dice: 0
+	 63 of 617 
+
+	pair: ('accountants', 'accounting')
+	dice: 0
+	 63 of 617 
+
+	pair: ('accountants', 'accounts')
+	dice: 0
+	 63 of 617 
+
+	pair: ('accounted', 'accounting')
+	dice: 0.045454545454545456
+	 63 of 617 
+
+	pair: ('accounted', 'accounts')
+	dice: 0.017241379310344827
+	 63 of 617 
+
+	pair: ('accounting', 'accounts')
+	dice: 0.02857142857142857
+	 63 of 617 
+
+
+stem: accredit
+	stem class: ['accreditation', 'accredited', 'accrediting'] 
+
+	pair: ('accreditation', 'accredited')
+	dice: 0.15
+	 64 of 617 
+
+	pair: ('accreditation', 'accrediting')
+	dice: 0
+	 64 of 617 
+
+	pair: ('accredited', 'accrediting')
+	dice: 0.0625
+	 64 of 617 
+
+
+stem: accret
+	stem class: ['accrete', 'accreted', 'accretes', 'accreting', 'accretion'] 
+
+	pair: ('accrete', 'accreted')
+	dice: 0.5
+	 65 of 617 
+
+	pair: ('accrete', 'accretes')
+	dice: 0
+	 65 of 617 
+
+	pair: ('accrete', 'accreting')
+	dice: 0.5
+	 65 of 617 
+
+	pair: ('accrete', 'accretion')
+	dice: 0.3333333333333333
+	 65 of 617 
+
+	pair: ('accreted', 'accretes')
+	dice: 0
+	 65 of 617 
+
+	pair: ('accreted', 'accreting')
+	dice: 0.5
+	 65 of 617 
+
+	pair: ('accreted', 'accretion')
+	dice: 0.3333333333333333
+	 65 of 617 
+
+	pair: ('accretes', 'accreting')
+	dice: 0
+	 65 of 617 
+
+	pair: ('accretes', 'accretion')
+	dice: 0
+	 65 of 617 
+
+	pair: ('accreting', 'accretion')
+	dice: 0.3333333333333333
+	 65 of 617 
+
+
+stem: accumul
+	stem class: ['accumulate', 'accumulated', 'accumulates', 'accumulating', 'accumulation', 'accumulations', 'accumulator', 'accumulators'] 
+
+	pair: ('accumulate', 'accumulated')
+	dice: 0.09090909090909091
+	 66 of 617 
+
+	pair: ('accumulate', 'accumulates')
+	dice: 0
+	 66 of 617 
+
+	pair: ('accumulate', 'accumulating')
+	dice: 0
+	 66 of 617 
+
+	pair: ('accumulate', 'accumulation')
+	dice: 0
+	 66 of 617 
+
+	pair: ('accumulate', 'accumulations')
+	dice: 0
+	 66 of 617 
+
+	pair: ('accumulate', 'accumulator')
+	dice: 0
+	 66 of 617 
+
+	pair: ('accumulate', 'accumulators')
+	dice: 0
+	 66 of 617 
+
+	pair: ('accumulated', 'accumulates')
+	dice: 0
+	 66 of 617 
+
+	pair: ('accumulated', 'accumulating')
+	dice: 0
+	 66 of 617 
+
+	pair: ('accumulated', 'accumulation')
+	dice: 0
+	 66 of 617 
+
+	pair: ('accumulated', 'accumulations')
+	dice: 0
+	 66 of 617 
+
+	pair: ('accumulated', 'accumulator')
+	dice: 0
+	 66 of 617 
+
+	pair: ('accumulated', 'accumulators')
+	dice: 0
+	 66 of 617 
+
+	pair: ('accumulates', 'accumulating')
+	dice: 0
+	 66 of 617 
+
+	pair: ('accumulates', 'accumulation')
+	dice: 0
+	 66 of 617 
+
+	pair: ('accumulates', 'accumulations')
+	dice: 0
+	 66 of 617 
+
+	pair: ('accumulates', 'accumulator')
+	dice: 0
+	 66 of 617 
+
+	pair: ('accumulates', 'accumulators')
+	dice: 0
+	 66 of 617 
+
+	pair: ('accumulating', 'accumulation')
+	dice: 0
+	 66 of 617 
+
+	pair: ('accumulating', 'accumulations')
+	dice: 0
+	 66 of 617 
+
+	pair: ('accumulating', 'accumulator')
+	dice: 0
+	 66 of 617 
+
+	pair: ('accumulating', 'accumulators')
+	dice: 0
+	 66 of 617 
+
+	pair: ('accumulation', 'accumulations')
+	dice: 0
+	 66 of 617 
+
+	pair: ('accumulation', 'accumulator')
+	dice: 0
+	 66 of 617 
+
+	pair: ('accumulation', 'accumulators')
+	dice: 0
+	 66 of 617 
+
+	pair: ('accumulations', 'accumulator')
+	dice: 0
+	 66 of 617 
+
+	pair: ('accumulations', 'accumulators')
+	dice: 0
+	 66 of 617 
+
+	pair: ('accumulator', 'accumulators')
+	dice: 0
+	 66 of 617 
+
+
+stem: accur
+	stem class: ['accurate', 'accurately'] 
+
+	pair: ('accurate', 'accurately')
+	dice: 0.08163265306122448
+	 67 of 617 
+
+
+stem: accus
+	stem class: ['accusation', 'accusations', 'accusative', 'accuse', 'accused', 'accuses', 'accusing'] 
+
+	pair: ('accusation', 'accusations')
+	dice: 0
+	 68 of 617 
+
+	pair: ('accusation', 'accusative')
+	dice: 0
+	 68 of 617 
+
+	pair: ('accusation', 'accuse')
+	dice: 0.08333333333333333
+	 68 of 617 
+
+	pair: ('accusation', 'accused')
+	dice: 0.04838709677419355
+	 68 of 617 
+
+	pair: ('accusation', 'accuses')
+	dice: 0
+	 68 of 617 
+
+	pair: ('accusation', 'accusing')
+	dice: 0.06666666666666667
+	 68 of 617 
+
+	pair: ('accusations', 'accusative')
+	dice: 0
+	 68 of 617 
+
+	pair: ('accusations', 'accuse')
+	dice: 0.043478260869565216
+	 68 of 617 
+
+	pair: ('accusations', 'accused')
+	dice: 0.1232876712328767
+	 68 of 617 
+
+	pair: ('accusations', 'accuses')
+	dice: 0.047619047619047616
+	 68 of 617 
+
+	pair: ('accusations', 'accusing')
+	dice: 0.038461538461538464
+	 68 of 617 
+
+	pair: ('accusative', 'accuse')
+	dice: 0
+	 68 of 617 
+
+	pair: ('accusative', 'accused')
+	dice: 0
+	 68 of 617 
+
+	pair: ('accusative', 'accuses')
+	dice: 0
+	 68 of 617 
+
+	pair: ('accusative', 'accusing')
+	dice: 0
+	 68 of 617 
+
+	pair: ('accuse', 'accused')
+	dice: 0
+	 68 of 617 
+
+	pair: ('accuse', 'accuses')
+	dice: 0.125
+	 68 of 617 
+
+	pair: ('accuse', 'accusing')
+	dice: 0
+	 68 of 617 
+
+	pair: ('accused', 'accuses')
+	dice: 0
+	 68 of 617 
+
+	pair: ('accused', 'accusing')
+	dice: 0.09523809523809523
+	 68 of 617 
+
+	pair: ('accuses', 'accusing')
+	dice: 0
+	 68 of 617 
+
+
+stem: acet
+	stem class: ['acetal', 'acetate', 'acetic'] 
+
+	pair: ('acetal', 'acetate')
+	dice: 0
+	 69 of 617 
+
+	pair: ('acetal', 'acetic')
+	dice: 0
+	 69 of 617 
+
+	pair: ('acetate', 'acetic')
+	dice: 0
+	 69 of 617 
+
+
+stem: achiev
+	stem class: ['achievable', 'achieve', 'achieved', 'achievement', 'achievements', 'achievers', 'achieves', 'achieving'] 
+
+	pair: ('achievable', 'achieve')
+	dice: 0
+	 70 of 617 
+
+	pair: ('achievable', 'achieved')
+	dice: 0.011494252873563218
+	 70 of 617 
+
+	pair: ('achievable', 'achievement')
+	dice: 0
+	 70 of 617 
+
+	pair: ('achievable', 'achievements')
+	dice: 0
+	 70 of 617 
+
+	pair: ('achievable', 'achievers')
+	dice: 0
+	 70 of 617 
+
+	pair: ('achievable', 'achieves')
+	dice: 0
+	 70 of 617 
+
+	pair: ('achievable', 'achieving')
+	dice: 0
+	 70 of 617 
+
+	pair: ('achieve', 'achieved')
+	dice: 0.045454545454545456
+	 70 of 617 
+
+	pair: ('achieve', 'achievement')
+	dice: 0.014925373134328358
+	 70 of 617 
+
+	pair: ('achieve', 'achievements')
+	dice: 0
+	 70 of 617 
+
+	pair: ('achieve', 'achievers')
+	dice: 0
+	 70 of 617 
+
+	pair: ('achieve', 'achieves')
+	dice: 0.02
+	 70 of 617 
+
+	pair: ('achieve', 'achieving')
+	dice: 0.057971014492753624
+	 70 of 617 
+
+	pair: ('achieved', 'achievement')
+	dice: 0.01904761904761905
+	 70 of 617 
+
+	pair: ('achieved', 'achievements')
+	dice: 0.009900990099009901
+	 70 of 617 
+
+	pair: ('achieved', 'achievers')
+	dice: 0
+	 70 of 617 
+
+	pair: ('achieved', 'achieves')
+	dice: 0
+	 70 of 617 
+
+	pair: ('achieved', 'achieving')
+	dice: 0.028037383177570093
+	 70 of 617 
+
+	pair: ('achievement', 'achievements')
+	dice: 0.027777777777777776
+	 70 of 617 
+
+	pair: ('achievement', 'achievers')
+	dice: 0
+	 70 of 617 
+
+	pair: ('achievement', 'achieves')
+	dice: 0
+	 70 of 617 
+
+	pair: ('achievement', 'achieving')
+	dice: 0
+	 70 of 617 
+
+	pair: ('achievements', 'achievers')
+	dice: 0
+	 70 of 617 
+
+	pair: ('achievements', 'achieves')
+	dice: 0
+	 70 of 617 
+
+	pair: ('achievements', 'achieving')
+	dice: 0
+	 70 of 617 
+
+	pair: ('achievers', 'achieves')
+	dice: 0
+	 70 of 617 
+
+	pair: ('achievers', 'achieving')
+	dice: 0
+	 70 of 617 
+
+	pair: ('achieves', 'achieving')
+	dice: 0.04
+	 70 of 617 
+
+
+stem: achil
+	stem class: ['achille', 'achilles'] 
+
+	pair: ('achille', 'achilles')
+	dice: 0
+	 71 of 617 
+
+
+stem: ach
+	stem class: ['aching', 'achs'] 
+
+	pair: ('aching', 'achs')
+	dice: 0
+	 72 of 617 
+
+
+stem: acid
+	stem class: ['acid', 'acidic', 'acidity', 'acids'] 
+
+	pair: ('acid', 'acidic')
+	dice: 0.12
+	 73 of 617 
+
+	pair: ('acid', 'acidity')
+	dice: 0.043478260869565216
+	 73 of 617 
+
+	pair: ('acid', 'acids')
+	dice: 0.07407407407407407
+	 73 of 617 
+
+	pair: ('acidic', 'acidity')
+	dice: 0.16666666666666666
+	 73 of 617 
+
+	pair: ('acidic', 'acids')
+	dice: 0.1
+	 73 of 617 
+
+	pair: ('acidity', 'acids')
+	dice: 0.125
+	 73 of 617 
+
+
+stem: acknowledg
+	stem class: ['acknowledge', 'acknowledged', 'acknowledgement', 'acknowledges', 'acknowledging', 'acknowledgment', 'acknowledgments'] 
+
+	pair: ('acknowledge', 'acknowledged')
+	dice: 0.024390243902439025
+	 74 of 617 
+
+	pair: ('acknowledge', 'acknowledgement')
+	dice: 0.045454545454545456
+	 74 of 617 
+
+	pair: ('acknowledge', 'acknowledges')
+	dice: 0.045454545454545456
+	 74 of 617 
+
+	pair: ('acknowledge', 'acknowledging')
+	dice: 0
+	 74 of 617 
+
+	pair: ('acknowledge', 'acknowledgment')
+	dice: 0
+	 74 of 617 
+
+	pair: ('acknowledge', 'acknowledgments')
+	dice: 0
+	 74 of 617 
+
+	pair: ('acknowledged', 'acknowledgement')
+	dice: 0
+	 74 of 617 
+
+	pair: ('acknowledged', 'acknowledges')
+	dice: 0.037037037037037035
+	 74 of 617 
+
+	pair: ('acknowledged', 'acknowledging')
+	dice: 0.03571428571428571
+	 74 of 617 
+
+	pair: ('acknowledged', 'acknowledgment')
+	dice: 0
+	 74 of 617 
+
+	pair: ('acknowledged', 'acknowledgments')
+	dice: 0.041666666666666664
+	 74 of 617 
+
+	pair: ('acknowledgement', 'acknowledges')
+	dice: 0
+	 74 of 617 
+
+	pair: ('acknowledgement', 'acknowledging')
+	dice: 0
+	 74 of 617 
+
+	pair: ('acknowledgement', 'acknowledgment')
+	dice: 0
+	 74 of 617 
+
+	pair: ('acknowledgement', 'acknowledgments')
+	dice: 0
+	 74 of 617 
+
+	pair: ('acknowledges', 'acknowledging')
+	dice: 0
+	 74 of 617 
+
+	pair: ('acknowledges', 'acknowledgment')
+	dice: 0
+	 74 of 617 
+
+	pair: ('acknowledges', 'acknowledgments')
+	dice: 0
+	 74 of 617 
+
+	pair: ('acknowledging', 'acknowledgment')
+	dice: 0
+	 74 of 617 
+
+	pair: ('acknowledging', 'acknowledgments')
+	dice: 0
+	 74 of 617 
+
+	pair: ('acknowledgment', 'acknowledgments')
+	dice: 0
+	 74 of 617 
+
+
+stem: acm
+	stem class: ['acm', 'acme'] 
+
+	pair: ('acm', 'acme')
+	dice: 0
+	 75 of 617 
+
+
+stem: acoust
+	stem class: ['acoustic', 'acoustical', 'acoustically', 'acoustics'] 
+
+	pair: ('acoustic', 'acoustical')
+	dice: 0.041666666666666664
+	 76 of 617 
+
+	pair: ('acoustic', 'acoustically')
+	dice: 0.038461538461538464
+	 76 of 617 
+
+	pair: ('acoustic', 'acoustics')
+	dice: 0
+	 76 of 617 
+
+	pair: ('acoustical', 'acoustically')
+	dice: 0.25
+	 76 of 617 
+
+	pair: ('acoustical', 'acoustics')
+	dice: 0
+	 76 of 617 
+
+	pair: ('acoustically', 'acoustics')
+	dice: 0
+	 76 of 617 
+
+
+stem: acquaint
+	stem class: ['acquaintance', 'acquaintances', 'acquainted', 'acquainting'] 
+
+	pair: ('acquaintance', 'acquaintances')
+	dice: 0
+	 77 of 617 
+
+	pair: ('acquaintance', 'acquainted')
+	dice: 0.0625
+	 77 of 617 
+
+	pair: ('acquaintance', 'acquainting')
+	dice: 0
+	 77 of 617 
+
+	pair: ('acquaintances', 'acquainted')
+	dice: 0
+	 77 of 617 
+
+	pair: ('acquaintances', 'acquainting')
+	dice: 0
+	 77 of 617 
+
+	pair: ('acquainted', 'acquainting')
+	dice: 0
+	 77 of 617 
+
+
+stem: acquiesc
+	stem class: ['acquiesce', 'acquiescence'] 
+
+	pair: ('acquiesce', 'acquiescence')
+	dice: 0
+	 78 of 617 
+
+
+stem: acquir
+	stem class: ['acquire', 'acquired', 'acquirer', 'acquires', 'acquiring'] 
+
+	pair: ('acquire', 'acquired')
+	dice: 0.02857142857142857
+	 79 of 617 
+
+	pair: ('acquire', 'acquirer')
+	dice: 0
+	 79 of 617 
+
+	pair: ('acquire', 'acquires')
+	dice: 0.05263157894736842
+	 79 of 617 
+
+	pair: ('acquire', 'acquiring')
+	dice: 0.07407407407407407
+	 79 of 617 
+
+	pair: ('acquired', 'acquirer')
+	dice: 0
+	 79 of 617 
+
+	pair: ('acquired', 'acquires')
+	dice: 0.011111111111111112
+	 79 of 617 
+
+	pair: ('acquired', 'acquiring')
+	dice: 0.030612244897959183
+	 79 of 617 
+
+	pair: ('acquirer', 'acquires')
+	dice: 0
+	 79 of 617 
+
+	pair: ('acquirer', 'acquiring')
+	dice: 0.09090909090909091
+	 79 of 617 
+
+	pair: ('acquires', 'acquiring')
+	dice: 0
+	 79 of 617 
+
+
+stem: acquisit
+	stem class: ['acquisition', 'acquisitions'] 
+
+	pair: ('acquisition', 'acquisitions')
+	dice: 0.08
+	 80 of 617 
+
+
+stem: acquitt
+	stem class: ['acquittal', 'acquittement'] 
+
+	pair: ('acquittal', 'acquittement')
+	dice: 0
+	 81 of 617 
+
+
+stem: acr
+	stem class: ['acre', 'acres'] 
+
+	pair: ('acre', 'acres')
+	dice: 0.140625
+	 82 of 617 
+
+
+stem: acrobat
+	stem class: ['acrobatic', 'acrobatics'] 
+
+	pair: ('acrobatic', 'acrobatics')
+	dice: 0
+	 83 of 617 
+
+
+stem: acryl
+	stem class: ['acrylate', 'acrylics'] 
+
+	pair: ('acrylate', 'acrylics')
+	dice: 0.5
+	 84 of 617 
+
+
+stem: act
+	stem class: ['act', 'acted', 'acting', 'acts'] 
+
+	pair: ('act', 'acted')
+	dice: 0.04
+	 85 of 617 
+
+	pair: ('act', 'acting')
+	dice: 0.05517241379310345
+	 85 of 617 
+
+	pair: ('act', 'acts')
+	dice: 0.1076923076923077
+	 85 of 617 
+
+	pair: ('acted', 'acting')
+	dice: 0.022222222222222223
+	 85 of 617 
+
+	pair: ('acted', 'acts')
+	dice: 0.009523809523809525
+	 85 of 617 
+
+	pair: ('acting', 'acts')
+	dice: 0.052941176470588235
+	 85 of 617 
+
+
+stem: action
+	stem class: ['action', 'actiones', 'actions'] 
+
+	pair: ('action', 'actiones')
+	dice: 0
+	 86 of 617 
+
+	pair: ('action', 'actions')
+	dice: 0.10756972111553785
+	 86 of 617 
+
+	pair: ('actiones', 'actions')
+	dice: 0
+	 86 of 617 
+
+
+stem: activ
+	stem class: ['activ', 'activate', 'activated', 'activates', 'activating', 'activation', 'active', 'actively', 'activism', 'activities', 'activity'] 
+
+	pair: ('activ', 'activate')
+	dice: 0
+	 87 of 617 
+
+	pair: ('activ', 'activated')
+	dice: 0
+	 87 of 617 
+
+	pair: ('activ', 'activates')
+	dice: 0
+	 87 of 617 
+
+	pair: ('activ', 'activating')
+	dice: 0
+	 87 of 617 
+
+	pair: ('activ', 'activation')
+	dice: 0
+	 87 of 617 
+
+	pair: ('activ', 'active')
+	dice: 0
+	 87 of 617 
+
+	pair: ('activ', 'actively')
+	dice: 0
+	 87 of 617 
+
+	pair: ('activ', 'activism')
+	dice: 0
+	 87 of 617 
+
+	pair: ('activ', 'activities')
+	dice: 0
+	 87 of 617 
+
+	pair: ('activ', 'activity')
+	dice: 0
+	 87 of 617 
+
+	pair: ('activate', 'activated')
+	dice: 0
+	 87 of 617 
+
+	pair: ('activate', 'activates')
+	dice: 0
+	 87 of 617 
+
+	pair: ('activate', 'activating')
+	dice: 0.14285714285714285
+	 87 of 617 
+
+	pair: ('activate', 'activation')
+	dice: 0
+	 87 of 617 
+
+	pair: ('activate', 'active')
+	dice: 0
+	 87 of 617 
+
+	pair: ('activate', 'actively')
+	dice: 0
+	 87 of 617 
+
+	pair: ('activate', 'activism')
+	dice: 0
+	 87 of 617 
+
+	pair: ('activate', 'activities')
+	dice: 0.007936507936507936
+	 87 of 617 
+
+	pair: ('activate', 'activity')
+	dice: 0.010752688172043012
+	 87 of 617 
+
+	pair: ('activated', 'activates')
+	dice: 0
+	 87 of 617 
+
+	pair: ('activated', 'activating')
+	dice: 0
+	 87 of 617 
+
+	pair: ('activated', 'activation')
+	dice: 0.08695652173913043
+	 87 of 617 
+
+	pair: ('activated', 'active')
+	dice: 0.006493506493506494
+	 87 of 617 
+
+	pair: ('activated', 'actively')
+	dice: 0
+	 87 of 617 
+
+	pair: ('activated', 'activism')
+	dice: 0
+	 87 of 617 
+
+	pair: ('activated', 'activities')
+	dice: 0
+	 87 of 617 
+
+	pair: ('activated', 'activity')
+	dice: 0.0380952380952381
+	 87 of 617 
+
+	pair: ('activates', 'activating')
+	dice: 0
+	 87 of 617 
+
+	pair: ('activates', 'activation')
+	dice: 0
+	 87 of 617 
+
+	pair: ('activates', 'active')
+	dice: 0
+	 87 of 617 
+
+	pair: ('activates', 'actively')
+	dice: 0
+	 87 of 617 
+
+	pair: ('activates', 'activism')
+	dice: 0
+	 87 of 617 
+
+	pair: ('activates', 'activities')
+	dice: 0
+	 87 of 617 
+
+	pair: ('activates', 'activity')
+	dice: 0.010869565217391304
+	 87 of 617 
+
+	pair: ('activating', 'activation')
+	dice: 0
+	 87 of 617 
+
+	pair: ('activating', 'active')
+	dice: 0
+	 87 of 617 
+
+	pair: ('activating', 'actively')
+	dice: 0
+	 87 of 617 
+
+	pair: ('activating', 'activism')
+	dice: 0
+	 87 of 617 
+
+	pair: ('activating', 'activities')
+	dice: 0
+	 87 of 617 
+
+	pair: ('activating', 'activity')
+	dice: 0
+	 87 of 617 
+
+	pair: ('activation', 'active')
+	dice: 0
+	 87 of 617 
+
+	pair: ('activation', 'actively')
+	dice: 0
+	 87 of 617 
+
+	pair: ('activation', 'activism')
+	dice: 0
+	 87 of 617 
+
+	pair: ('activation', 'activities')
+	dice: 0
+	 87 of 617 
+
+	pair: ('activation', 'activity')
+	dice: 0.010416666666666666
+	 87 of 617 
+
+	pair: ('active', 'actively')
+	dice: 0.03067484662576687
+	 87 of 617 
+
+	pair: ('active', 'activism')
+	dice: 0.020689655172413793
+	 87 of 617 
+
+	pair: ('active', 'activities')
+	dice: 0.07692307692307693
+	 87 of 617 
+
+	pair: ('active', 'activity')
+	dice: 0.05726872246696035
+	 87 of 617 
+
+	pair: ('actively', 'activism')
+	dice: 0.09375
+	 87 of 617 
+
+	pair: ('actively', 'activities')
+	dice: 0.027210884353741496
+	 87 of 617 
+
+	pair: ('actively', 'activity')
+	dice: 0.017543859649122806
+	 87 of 617 
+
+	pair: ('activism', 'activities')
+	dice: 0.015503875968992248
+	 87 of 617 
+
+	pair: ('activism', 'activity')
+	dice: 0.020833333333333332
+	 87 of 617 
+
+	pair: ('activities', 'activity')
+	dice: 0.0995260663507109
+	 87 of 617 
+
+
+stem: activist
+	stem class: ['activist', 'activists'] 
+
+	pair: ('activist', 'activists')
+	dice: 0
+	 88 of 617 
+
+
+stem: actor
+	stem class: ['actor', 'actors'] 
+
+	pair: ('actor', 'actors')
+	dice: 0.11578947368421053
+	 89 of 617 
+
+
+stem: actress
+	stem class: ['actress', 'actresses'] 
+
+	pair: ('actress', 'actresses')
+	dice: 0.11904761904761904
+	 90 of 617 
+
+
+stem: actual
+	stem class: ['actual', 'actuality', 'actualizing', 'actually'] 
+
+	pair: ('actual', 'actuality')
+	dice: 0
+	 91 of 617 
+
+	pair: ('actual', 'actualizing')
+	dice: 0
+	 91 of 617 
+
+	pair: ('actual', 'actually')
+	dice: 0.08764940239043825
+	 91 of 617 
+
+	pair: ('actuality', 'actualizing')
+	dice: 0
+	 91 of 617 
+
+	pair: ('actuality', 'actually')
+	dice: 0.0058823529411764705
+	 91 of 617 
+
+	pair: ('actualizing', 'actually')
+	dice: 0
+	 91 of 617 
+
+
+stem: acut
+	stem class: ['acute', 'acutely'] 
+
+	pair: ('acute', 'acutely')
+	dice: 0.05263157894736842
+	 92 of 617 
+
+
+stem: ad
+	stem class: ['ad', 'added', 'adding', 'ade', 'ads'] 
+
+	pair: ('ad', 'added')
+	dice: 0.04424778761061947
+	 93 of 617 
+
+	pair: ('ad', 'adding')
+	dice: 0.030927835051546393
+	 93 of 617 
+
+	pair: ('ad', 'ade')
+	dice: 0
+	 93 of 617 
+
+	pair: ('ad', 'ads')
+	dice: 0.03225806451612903
+	 93 of 617 
+
+	pair: ('added', 'adding')
+	dice: 0.06511627906976744
+	 93 of 617 
+
+	pair: ('added', 'ade')
+	dice: 0.005681818181818182
+	 93 of 617 
+
+	pair: ('added', 'ads')
+	dice: 0.005555555555555556
+	 93 of 617 
+
+	pair: ('adding', 'ade')
+	dice: 0
+	 93 of 617 
+
+	pair: ('adding', 'ads')
+	dice: 0
+	 93 of 617 
+
+	pair: ('ade', 'ads')
+	dice: 0
+	 93 of 617 
+
+
+stem: adac
+	stem class: ['adac', 'adacent'] 
+
+	pair: ('adac', 'adacent')
+	dice: 0
+	 94 of 617 
+
+
+stem: adam
+	stem class: ['adam', 'adamant', 'adams'] 
+
+	pair: ('adam', 'adamant')
+	dice: 0
+	 95 of 617 
+
+	pair: ('adam', 'adams')
+	dice: 0.020833333333333332
+	 95 of 617 
+
+	pair: ('adamant', 'adams')
+	dice: 0
+	 95 of 617 
+
+
+stem: adapt
+	stem class: ['adapt', 'adaptability', 'adaptation', 'adaptations', 'adapted', 'adapter', 'adapters', 'adapting', 'adaption', 'adaptive'] 
+
+	pair: ('adapt', 'adaptability')
+	dice: 0
+	 96 of 617 
+
+	pair: ('adapt', 'adaptation')
+	dice: 0.029411764705882353
+	 96 of 617 
+
+	pair: ('adapt', 'adaptations')
+	dice: 0.05
+	 96 of 617 
+
+	pair: ('adapt', 'adapted')
+	dice: 0.05263157894736842
+	 96 of 617 
+
+	pair: ('adapt', 'adapter')
+	dice: 0
+	 96 of 617 
+
+	pair: ('adapt', 'adapters')
+	dice: 0
+	 96 of 617 
+
+	pair: ('adapt', 'adapting')
+	dice: 0.11764705882352941
+	 96 of 617 
+
+	pair: ('adapt', 'adaption')
+	dice: 0.09090909090909091
+	 96 of 617 
+
+	pair: ('adapt', 'adaptive')
+	dice: 0
+	 96 of 617 
+
+	pair: ('adaptability', 'adaptation')
+	dice: 0
+	 96 of 617 
+
+	pair: ('adaptability', 'adaptations')
+	dice: 0
+	 96 of 617 
+
+	pair: ('adaptability', 'adapted')
+	dice: 0
+	 96 of 617 
+
+	pair: ('adaptability', 'adapter')
+	dice: 0
+	 96 of 617 
+
+	pair: ('adaptability', 'adapters')
+	dice: 0
+	 96 of 617 
+
+	pair: ('adaptability', 'adapting')
+	dice: 0
+	 96 of 617 
+
+	pair: ('adaptability', 'adaption')
+	dice: 0
+	 96 of 617 
+
+	pair: ('adaptability', 'adaptive')
+	dice: 0
+	 96 of 617 
+
+	pair: ('adaptation', 'adaptations')
+	dice: 0.058823529411764705
+	 96 of 617 
+
+	pair: ('adaptation', 'adapted')
+	dice: 0.11267605633802817
+	 96 of 617 
+
+	pair: ('adaptation', 'adapter')
+	dice: 0
+	 96 of 617 
+
+	pair: ('adaptation', 'adapters')
+	dice: 0.03571428571428571
+	 96 of 617 
+
+	pair: ('adaptation', 'adapting')
+	dice: 0
+	 96 of 617 
+
+	pair: ('adaptation', 'adaption')
+	dice: 0
+	 96 of 617 
+
+	pair: ('adaptation', 'adaptive')
+	dice: 0.03571428571428571
+	 96 of 617 
+
+	pair: ('adaptations', 'adapted')
+	dice: 0.08771929824561403
+	 96 of 617 
+
+	pair: ('adaptations', 'adapter')
+	dice: 0
+	 96 of 617 
+
+	pair: ('adaptations', 'adapters')
+	dice: 0
+	 96 of 617 
+
+	pair: ('adaptations', 'adapting')
+	dice: 0
+	 96 of 617 
+
+	pair: ('adaptations', 'adaption')
+	dice: 0
+	 96 of 617 
+
+	pair: ('adaptations', 'adaptive')
+	dice: 0.07142857142857142
+	 96 of 617 
+
+	pair: ('adapted', 'adapter')
+	dice: 0
+	 96 of 617 
+
+	pair: ('adapted', 'adapters')
+	dice: 0.0196078431372549
+	 96 of 617 
+
+	pair: ('adapted', 'adapting')
+	dice: 0.018518518518518517
+	 96 of 617 
+
+	pair: ('adapted', 'adaption')
+	dice: 0.020833333333333332
+	 96 of 617 
+
+	pair: ('adapted', 'adaptive')
+	dice: 0.0196078431372549
+	 96 of 617 
+
+	pair: ('adapter', 'adapters')
+	dice: 0.25
+	 96 of 617 
+
+	pair: ('adapter', 'adapting')
+	dice: 0
+	 96 of 617 
+
+	pair: ('adapter', 'adaption')
+	dice: 0
+	 96 of 617 
+
+	pair: ('adapter', 'adaptive')
+	dice: 0
+	 96 of 617 
+
+	pair: ('adapters', 'adapting')
+	dice: 0
+	 96 of 617 
+
+	pair: ('adapters', 'adaption')
+	dice: 0
+	 96 of 617 
+
+	pair: ('adapters', 'adaptive')
+	dice: 0
+	 96 of 617 
+
+	pair: ('adapting', 'adaption')
+	dice: 0
+	 96 of 617 
+
+	pair: ('adapting', 'adaptive')
+	dice: 0
+	 96 of 617 
+
+	pair: ('adaption', 'adaptive')
+	dice: 0
+	 96 of 617 
+
+
+stem: add
+	stem class: ['add', 'adds'] 
+
+	pair: ('add', 'adds')
+	dice: 0.05084745762711865
+	 97 of 617 
+
+
+stem: addict
+	stem class: ['addict', 'addicted', 'addiction', 'addictive', 'addicts'] 
+
+	pair: ('addict', 'addicted')
+	dice: 0
+	 98 of 617 
+
+	pair: ('addict', 'addiction')
+	dice: 0
+	 98 of 617 
+
+	pair: ('addict', 'addictive')
+	dice: 0
+	 98 of 617 
+
+	pair: ('addict', 'addicts')
+	dice: 0
+	 98 of 617 
+
+	pair: ('addicted', 'addiction')
+	dice: 0.08333333333333333
+	 98 of 617 
+
+	pair: ('addicted', 'addictive')
+	dice: 0
+	 98 of 617 
+
+	pair: ('addicted', 'addicts')
+	dice: 0
+	 98 of 617 
+
+	pair: ('addiction', 'addictive')
+	dice: 0
+	 98 of 617 
+
+	pair: ('addiction', 'addicts')
+	dice: 0
+	 98 of 617 
+
+	pair: ('addictive', 'addicts')
+	dice: 0
+	 98 of 617 
+
+
+stem: addit
+	stem class: ['addition', 'additional', 'additions', 'additive', 'additives', 'additivity'] 
+
+	pair: ('addition', 'additional')
+	dice: 0.06544502617801047
+	 99 of 617 
+
+	pair: ('addition', 'additions')
+	dice: 0.01893939393939394
+	 99 of 617 
+
+	pair: ('addition', 'additive')
+	dice: 0.003968253968253968
+	 99 of 617 
+
+	pair: ('addition', 'additives')
+	dice: 0
+	 99 of 617 
+
+	pair: ('addition', 'additivity')
+	dice: 0.003968253968253968
+	 99 of 617 
+
+	pair: ('additional', 'additions')
+	dice: 0.006944444444444444
+	 99 of 617 
+
+	pair: ('additional', 'additive')
+	dice: 0
+	 99 of 617 
+
+	pair: ('additional', 'additives')
+	dice: 0
+	 99 of 617 
+
+	pair: ('additional', 'additivity')
+	dice: 0
+	 99 of 617 
+
+	pair: ('additions', 'additive')
+	dice: 0
+	 99 of 617 
+
+	pair: ('additions', 'additives')
+	dice: 0
+	 99 of 617 
+
+	pair: ('additions', 'additivity')
+	dice: 0
+	 99 of 617 
+
+	pair: ('additive', 'additives')
+	dice: 0
+	 99 of 617 
+
+	pair: ('additive', 'additivity')
+	dice: 0
+	 99 of 617 
+
+	pair: ('additives', 'additivity')
+	dice: 0
+	 99 of 617 
+
+
+stem: address
+	stem class: ['address', 'addressed', 'addresses', 'addressing'] 
+
+	pair: ('address', 'addressed')
+	dice: 0.06521739130434782
+	 100 of 617 
+
+	pair: ('address', 'addresses')
+	dice: 0.08
+	 100 of 617 
+
+	pair: ('address', 'addressing')
+	dice: 0.043478260869565216
+	 100 of 617 
+
+	pair: ('addressed', 'addresses')
+	dice: 0.01818181818181818
+	 100 of 617 
+
+	pair: ('addressed', 'addressing')
+	dice: 0
+	 100 of 617 
+
+	pair: ('addresses', 'addressing')
+	dice: 0.09375
+	 100 of 617 
+
+
+stem: adept
+	stem class: ['adept', 'adeption', 'adepts'] 
+
+	pair: ('adept', 'adeption')
+	dice: 0
+	 101 of 617 
+
+	pair: ('adept', 'adepts')
+	dice: 0
+	 101 of 617 
+
+	pair: ('adeption', 'adepts')
+	dice: 0
+	 101 of 617 
+
+
+stem: adequ
+	stem class: ['adequate', 'adequately'] 
+
+	pair: ('adequate', 'adequately')
+	dice: 0
+	 102 of 617 
+
+
+stem: adher
+	stem class: ['adhere', 'adhered', 'adherence', 'adherent', 'adherents', 'adheres', 'adhering'] 
+
+	pair: ('adhere', 'adhered')
+	dice: 0
+	 103 of 617 
+
+	pair: ('adhere', 'adherence')
+	dice: 0
+	 103 of 617 
+
+	pair: ('adhere', 'adherent')
+	dice: 0
+	 103 of 617 
+
+	pair: ('adhere', 'adherents')
+	dice: 0
+	 103 of 617 
+
+	pair: ('adhere', 'adheres')
+	dice: 0
+	 103 of 617 
+
+	pair: ('adhere', 'adhering')
+	dice: 0
+	 103 of 617 
+
+	pair: ('adhered', 'adherence')
+	dice: 0
+	 103 of 617 
+
+	pair: ('adhered', 'adherent')
+	dice: 0
+	 103 of 617 
+
+	pair: ('adhered', 'adherents')
+	dice: 0
+	 103 of 617 
+
+	pair: ('adhered', 'adheres')
+	dice: 0
+	 103 of 617 
+
+	pair: ('adhered', 'adhering')
+	dice: 0
+	 103 of 617 
+
+	pair: ('adherence', 'adherent')
+	dice: 0
+	 103 of 617 
+
+	pair: ('adherence', 'adherents')
+	dice: 0.07692307692307693
+	 103 of 617 
+
+	pair: ('adherence', 'adheres')
+	dice: 0
+	 103 of 617 
+
+	pair: ('adherence', 'adhering')
+	dice: 0
+	 103 of 617 
+
+	pair: ('adherent', 'adherents')
+	dice: 0
+	 103 of 617 
+
+	pair: ('adherent', 'adheres')
+	dice: 0
+	 103 of 617 
+
+	pair: ('adherent', 'adhering')
+	dice: 0
+	 103 of 617 
+
+	pair: ('adherents', 'adheres')
+	dice: 0
+	 103 of 617 
+
+	pair: ('adherents', 'adhering')
+	dice: 0
+	 103 of 617 
+
+	pair: ('adheres', 'adhering')
+	dice: 0
+	 103 of 617 
+
+
+stem: adhes
+	stem class: ['adhesion', 'adhesive', 'adhesively'] 
+
+	pair: ('adhesion', 'adhesive')
+	dice: 0
+	 104 of 617 
+
+	pair: ('adhesion', 'adhesively')
+	dice: 0
+	 104 of 617 
+
+	pair: ('adhesive', 'adhesively')
+	dice: 0
+	 104 of 617 
+
+
+stem: adil
+	stem class: ['adil', 'adils'] 
+
+	pair: ('adil', 'adils')
+	dice: 0
+	 105 of 617 
+
+
+stem: adject
+	stem class: ['adjective', 'adjectives'] 
+
+	pair: ('adjective', 'adjectives')
+	dice: 0
+	 106 of 617 
+
+
+stem: adjoin
+	stem class: ['adjoined', 'adjoining'] 
+
+	pair: ('adjoined', 'adjoining')
+	dice: 0
+	 107 of 617 
+
+
+stem: adjourn
+	stem class: ['adjourned', 'adjournment'] 
+
+	pair: ('adjourned', 'adjournment')
+	dice: 0.3333333333333333
+	 108 of 617 
+
+
+stem: adjust
+	stem class: ['adjust', 'adjustable', 'adjusted', 'adjusting', 'adjustment', 'adjustments', 'adjusts'] 
+
+	pair: ('adjust', 'adjustable')
+	dice: 0
+	 109 of 617 
+
+	pair: ('adjust', 'adjusted')
+	dice: 0
+	 109 of 617 
+
+	pair: ('adjust', 'adjusting')
+	dice: 0
+	 109 of 617 
+
+	pair: ('adjust', 'adjustment')
+	dice: 0.07692307692307693
+	 109 of 617 
+
+	pair: ('adjust', 'adjustments')
+	dice: 0
+	 109 of 617 
+
+	pair: ('adjust', 'adjusts')
+	dice: 0.14285714285714285
+	 109 of 617 
+
+	pair: ('adjustable', 'adjusted')
+	dice: 0.06666666666666667
+	 109 of 617 
+
+	pair: ('adjustable', 'adjusting')
+	dice: 0.1
+	 109 of 617 
+
+	pair: ('adjustable', 'adjustment')
+	dice: 0.16666666666666666
+	 109 of 617 
+
+	pair: ('adjustable', 'adjustments')
+	dice: 0.07692307692307693
+	 109 of 617 
+
+	pair: ('adjustable', 'adjusts')
+	dice: 0
+	 109 of 617 
+
+	pair: ('adjusted', 'adjusting')
+	dice: 0.13333333333333333
+	 109 of 617 
+
+	pair: ('adjusted', 'adjustment')
+	dice: 0.058823529411764705
+	 109 of 617 
+
+	pair: ('adjusted', 'adjustments')
+	dice: 0.05555555555555555
+	 109 of 617 
+
+	pair: ('adjusted', 'adjusts')
+	dice: 0
+	 109 of 617 
+
+	pair: ('adjusting', 'adjustment')
+	dice: 0.08333333333333333
+	 109 of 617 
+
+	pair: ('adjusting', 'adjustments')
+	dice: 0.07692307692307693
+	 109 of 617 
+
+	pair: ('adjusting', 'adjusts')
+	dice: 0
+	 109 of 617 
+
+	pair: ('adjustment', 'adjustments')
+	dice: 0.06666666666666667
+	 109 of 617 
+
+	pair: ('adjustment', 'adjusts')
+	dice: 0.125
+	 109 of 617 
+
+	pair: ('adjustments', 'adjusts')
+	dice: 0
+	 109 of 617 
+
+
+stem: admin
+	stem class: ['admin', 'admins'] 
+
+	pair: ('admin', 'admins')
+	dice: 0
+	 110 of 617 
+
+
+stem: administ
+	stem class: ['administer', 'administered', 'administering', 'administers'] 
+
+	pair: ('administer', 'administered')
+	dice: 0.05714285714285714
+	 111 of 617 
+
+	pair: ('administer', 'administering')
+	dice: 0
+	 111 of 617 
+
+	pair: ('administer', 'administers')
+	dice: 0
+	 111 of 617 
+
+	pair: ('administered', 'administering')
+	dice: 0
+	 111 of 617 
+
+	pair: ('administered', 'administers')
+	dice: 0.030303030303030304
+	 111 of 617 
+
+	pair: ('administering', 'administers')
+	dice: 0
+	 111 of 617 
+
+
+stem: administr
+	stem class: ['administrate', 'administrated', 'administration', 'administrations', 'administrative', 'administratively', 'administrator', 'administrators'] 
+
+	pair: ('administrate', 'administrated')
+	dice: 0.25
+	 112 of 617 
+
+	pair: ('administrate', 'administration')
+	dice: 0.009708737864077669
+	 112 of 617 
+
+	pair: ('administrate', 'administrations')
+	dice: 0
+	 112 of 617 
+
+	pair: ('administrate', 'administrative')
+	dice: 0
+	 112 of 617 
+
+	pair: ('administrate', 'administratively')
+	dice: 0
+	 112 of 617 
+
+	pair: ('administrate', 'administrator')
+	dice: 0
+	 112 of 617 
+
+	pair: ('administrate', 'administrators')
+	dice: 0
+	 112 of 617 
+
+	pair: ('administrated', 'administration')
+	dice: 0.009523809523809525
+	 112 of 617 
+
+	pair: ('administrated', 'administrations')
+	dice: 0
+	 112 of 617 
+
+	pair: ('administrated', 'administrative')
+	dice: 0.034482758620689655
+	 112 of 617 
+
+	pair: ('administrated', 'administratively')
+	dice: 0
+	 112 of 617 
+
+	pair: ('administrated', 'administrator')
+	dice: 0
+	 112 of 617 
+
+	pair: ('administrated', 'administrators')
+	dice: 0
+	 112 of 617 
+
+	pair: ('administration', 'administrations')
+	dice: 0.009433962264150943
+	 112 of 617 
+
+	pair: ('administration', 'administrative')
+	dice: 0.08917197452229299
+	 112 of 617 
+
+	pair: ('administration', 'administratively')
+	dice: 0.009433962264150943
+	 112 of 617 
+
+	pair: ('administration', 'administrator')
+	dice: 0.031746031746031744
+	 112 of 617 
+
+	pair: ('administration', 'administrators')
+	dice: 0.009259259259259259
+	 112 of 617 
+
+	pair: ('administrations', 'administrative')
+	dice: 0
+	 112 of 617 
+
+	pair: ('administrations', 'administratively')
+	dice: 0
+	 112 of 617 
+
+	pair: ('administrations', 'administrator')
+	dice: 0
+	 112 of 617 
+
+	pair: ('administrations', 'administrators')
+	dice: 0
+	 112 of 617 
+
+	pair: ('administrative', 'administratively')
+	dice: 0.01694915254237288
+	 112 of 617 
+
+	pair: ('administrative', 'administrator')
+	dice: 0.0759493670886076
+	 112 of 617 
+
+	pair: ('administrative', 'administrators')
+	dice: 0
+	 112 of 617 
+
+	pair: ('administratively', 'administrator')
+	dice: 0
+	 112 of 617 
+
+	pair: ('administratively', 'administrators')
+	dice: 0
+	 112 of 617 
+
+	pair: ('administrator', 'administrators')
+	dice: 0
+	 112 of 617 
+
+
+stem: admir
+	stem class: ['admirable', 'admiral', 'admirals', 'admiration', 'admire', 'admired', 'admirer', 'admirers', 'admires', 'admiring'] 
+
+	pair: ('admirable', 'admiral')
+	dice: 0
+	 113 of 617 
+
+	pair: ('admirable', 'admirals')
+	dice: 0
+	 113 of 617 
+
+	pair: ('admirable', 'admiration')
+	dice: 0
+	 113 of 617 
+
+	pair: ('admirable', 'admire')
+	dice: 0
+	 113 of 617 
+
+	pair: ('admirable', 'admired')
+	dice: 0
+	 113 of 617 
+
+	pair: ('admirable', 'admirer')
+	dice: 0
+	 113 of 617 
+
+	pair: ('admirable', 'admirers')
+	dice: 0
+	 113 of 617 
+
+	pair: ('admirable', 'admires')
+	dice: 0
+	 113 of 617 
+
+	pair: ('admirable', 'admiring')
+	dice: 0
+	 113 of 617 
+
+	pair: ('admiral', 'admirals')
+	dice: 0.038461538461538464
+	 113 of 617 
+
+	pair: ('admiral', 'admiration')
+	dice: 0
+	 113 of 617 
+
+	pair: ('admiral', 'admire')
+	dice: 0
+	 113 of 617 
+
+	pair: ('admiral', 'admired')
+	dice: 0
+	 113 of 617 
+
+	pair: ('admiral', 'admirer')
+	dice: 0
+	 113 of 617 
+
+	pair: ('admiral', 'admirers')
+	dice: 0
+	 113 of 617 
+
+	pair: ('admiral', 'admires')
+	dice: 0
+	 113 of 617 
+
+	pair: ('admiral', 'admiring')
+	dice: 0
+	 113 of 617 
+
+	pair: ('admirals', 'admiration')
+	dice: 0
+	 113 of 617 
+
+	pair: ('admirals', 'admire')
+	dice: 0
+	 113 of 617 
+
+	pair: ('admirals', 'admired')
+	dice: 0
+	 113 of 617 
+
+	pair: ('admirals', 'admirer')
+	dice: 0
+	 113 of 617 
+
+	pair: ('admirals', 'admirers')
+	dice: 0
+	 113 of 617 
+
+	pair: ('admirals', 'admires')
+	dice: 0
+	 113 of 617 
+
+	pair: ('admirals', 'admiring')
+	dice: 0
+	 113 of 617 
+
+	pair: ('admiration', 'admire')
+	dice: 0.07142857142857142
+	 113 of 617 
+
+	pair: ('admiration', 'admired')
+	dice: 0.041666666666666664
+	 113 of 617 
+
+	pair: ('admiration', 'admirer')
+	dice: 0
+	 113 of 617 
+
+	pair: ('admiration', 'admirers')
+	dice: 0
+	 113 of 617 
+
+	pair: ('admiration', 'admires')
+	dice: 0
+	 113 of 617 
+
+	pair: ('admiration', 'admiring')
+	dice: 0
+	 113 of 617 
+
+	pair: ('admire', 'admired')
+	dice: 0
+	 113 of 617 
+
+	pair: ('admire', 'admirer')
+	dice: 0
+	 113 of 617 
+
+	pair: ('admire', 'admirers')
+	dice: 0
+	 113 of 617 
+
+	pair: ('admire', 'admires')
+	dice: 0
+	 113 of 617 
+
+	pair: ('admire', 'admiring')
+	dice: 0
+	 113 of 617 
+
+	pair: ('admired', 'admirer')
+	dice: 0
+	 113 of 617 
+
+	pair: ('admired', 'admirers')
+	dice: 0
+	 113 of 617 
+
+	pair: ('admired', 'admires')
+	dice: 0
+	 113 of 617 
+
+	pair: ('admired', 'admiring')
+	dice: 0
+	 113 of 617 
+
+	pair: ('admirer', 'admirers')
+	dice: 0
+	 113 of 617 
+
+	pair: ('admirer', 'admires')
+	dice: 0
+	 113 of 617 
+
+	pair: ('admirer', 'admiring')
+	dice: 0
+	 113 of 617 
+
+	pair: ('admirers', 'admires')
+	dice: 0
+	 113 of 617 
+
+	pair: ('admirers', 'admiring')
+	dice: 0
+	 113 of 617 
+
+	pair: ('admires', 'admiring')
+	dice: 0
+	 113 of 617 
+
+
+stem: admiss
+	stem class: ['admission', 'admissions'] 
+
+	pair: ('admission', 'admissions')
+	dice: 0.07692307692307693
+	 114 of 617 
+
+
+stem: admit
+	stem class: ['admit', 'admits', 'admitted', 'admitting'] 
+
+	pair: ('admit', 'admits')
+	dice: 0
+	 115 of 617 
+
+	pair: ('admit', 'admitted')
+	dice: 0.05333333333333334
+	 115 of 617 
+
+	pair: ('admit', 'admitting')
+	dice: 0.08
+	 115 of 617 
+
+	pair: ('admits', 'admitted')
+	dice: 0.013333333333333334
+	 115 of 617 
+
+	pair: ('admits', 'admitting')
+	dice: 0
+	 115 of 617 
+
+	pair: ('admitted', 'admitting')
+	dice: 0.06060606060606061
+	 115 of 617 
+
+
+stem: admonish
+	stem class: ['admonish', 'admonished'] 
+
+	pair: ('admonish', 'admonished')
+	dice: 0
+	 116 of 617 
+
+
+stem: adolesc
+	stem class: ['adolescence', 'adolescent', 'adolescents'] 
+
+	pair: ('adolescence', 'adolescent')
+	dice: 0
+	 117 of 617 
+
+	pair: ('adolescence', 'adolescents')
+	dice: 0
+	 117 of 617 
+
+	pair: ('adolescent', 'adolescents')
+	dice: 0.1111111111111111
+	 117 of 617 
+
+
+stem: adopt
+	stem class: ['adopt', 'adopted', 'adopters', 'adopting', 'adoption', 'adoptive', 'adopts'] 
+
+	pair: ('adopt', 'adopted')
+	dice: 0.047619047619047616
+	 118 of 617 
+
+	pair: ('adopt', 'adopters')
+	dice: 0
+	 118 of 617 
+
+	pair: ('adopt', 'adopting')
+	dice: 0.03125
+	 118 of 617 
+
+	pair: ('adopt', 'adoption')
+	dice: 0.02631578947368421
+	 118 of 617 
+
+	pair: ('adopt', 'adoptive')
+	dice: 0
+	 118 of 617 
+
+	pair: ('adopt', 'adopts')
+	dice: 0
+	 118 of 617 
+
+	pair: ('adopted', 'adopters')
+	dice: 0.009174311926605505
+	 118 of 617 
+
+	pair: ('adopted', 'adopting')
+	dice: 0.041666666666666664
+	 118 of 617 
+
+	pair: ('adopted', 'adoption')
+	dice: 0.03968253968253968
+	 118 of 617 
+
+	pair: ('adopted', 'adoptive')
+	dice: 0.00909090909090909
+	 118 of 617 
+
+	pair: ('adopted', 'adopts')
+	dice: 0
+	 118 of 617 
+
+	pair: ('adopters', 'adopting')
+	dice: 0
+	 118 of 617 
+
+	pair: ('adopters', 'adoption')
+	dice: 0.047619047619047616
+	 118 of 617 
+
+	pair: ('adopters', 'adoptive')
+	dice: 0
+	 118 of 617 
+
+	pair: ('adopters', 'adopts')
+	dice: 0
+	 118 of 617 
+
+	pair: ('adopting', 'adoption')
+	dice: 0.0625
+	 118 of 617 
+
+	pair: ('adopting', 'adoptive')
+	dice: 0
+	 118 of 617 
+
+	pair: ('adopting', 'adopts')
+	dice: 0
+	 118 of 617 
+
+	pair: ('adoption', 'adoptive')
+	dice: 0
+	 118 of 617 
+
+	pair: ('adoption', 'adopts')
+	dice: 0
+	 118 of 617 
+
+	pair: ('adoptive', 'adopts')
+	dice: 0
+	 118 of 617 
+
+
+stem: ador
+	stem class: ['adorable', 'adoration', 'adore', 'adored', 'adores', 'adoring'] 
+
+	pair: ('adorable', 'adoration')
+	dice: 0
+	 119 of 617 
+
+	pair: ('adorable', 'adore')
+	dice: 0
+	 119 of 617 
+
+	pair: ('adorable', 'adored')
+	dice: 0
+	 119 of 617 
+
+	pair: ('adorable', 'adores')
+	dice: 0.5
+	 119 of 617 
+
+	pair: ('adorable', 'adoring')
+	dice: 0
+	 119 of 617 
+
+	pair: ('adoration', 'adore')
+	dice: 0
+	 119 of 617 
+
+	pair: ('adoration', 'adored')
+	dice: 0
+	 119 of 617 
+
+	pair: ('adoration', 'adores')
+	dice: 0
+	 119 of 617 
+
+	pair: ('adoration', 'adoring')
+	dice: 0
+	 119 of 617 
+
+	pair: ('adore', 'adored')
+	dice: 0
+	 119 of 617 
+
+	pair: ('adore', 'adores')
+	dice: 0
+	 119 of 617 
+
+	pair: ('adore', 'adoring')
+	dice: 0
+	 119 of 617 
+
+	pair: ('adored', 'adores')
+	dice: 0
+	 119 of 617 
+
+	pair: ('adored', 'adoring')
+	dice: 0
+	 119 of 617 
+
+	pair: ('adores', 'adoring')
+	dice: 0
+	 119 of 617 
+
+
+stem: adorn
+	stem class: ['adorn', 'adorned', 'adornments'] 
+
+	pair: ('adorn', 'adorned')
+	dice: 0
+	 120 of 617 
+
+	pair: ('adorn', 'adornments')
+	dice: 0
+	 120 of 617 
+
+	pair: ('adorned', 'adornments')
+	dice: 0
+	 120 of 617 
+
+
+stem: adult
+	stem class: ['adult', 'adults'] 
+
+	pair: ('adult', 'adults')
+	dice: 0.07766990291262135
+	 121 of 617 
+
+
+stem: adulter
+	stem class: ['adulterer', 'adulterers'] 
+
+	pair: ('adulterer', 'adulterers')
+	dice: 0
+	 122 of 617 
+
+
+stem: adulteri
+	stem class: ['adulteries', 'adultery'] 
+
+	pair: ('adulteries', 'adultery')
+	dice: 0
+	 123 of 617 
+
+
+stem: advanc
+	stem class: ['advance', 'advanced', 'advancement', 'advancements', 'advances', 'advancing'] 
+
+	pair: ('advance', 'advanced')
+	dice: 0.03225806451612903
+	 124 of 617 
+
+	pair: ('advance', 'advancement')
+	dice: 0.04054054054054054
+	 124 of 617 
+
+	pair: ('advance', 'advancements')
+	dice: 0
+	 124 of 617 
+
+	pair: ('advance', 'advances')
+	dice: 0.014925373134328358
+	 124 of 617 
+
+	pair: ('advance', 'advancing')
+	dice: 0.04477611940298507
+	 124 of 617 
+
+	pair: ('advanced', 'advancement')
+	dice: 0.020833333333333332
+	 124 of 617 
+
+	pair: ('advanced', 'advancements')
+	dice: 0.013513513513513514
+	 124 of 617 
+
+	pair: ('advanced', 'advances')
+	dice: 0.02247191011235955
+	 124 of 617 
+
+	pair: ('advanced', 'advancing')
+	dice: 0.02247191011235955
+	 124 of 617 
+
+	pair: ('advancement', 'advancements')
+	dice: 0
+	 124 of 617 
+
+	pair: ('advancement', 'advances')
+	dice: 0
+	 124 of 617 
+
+	pair: ('advancement', 'advancing')
+	dice: 0.05128205128205128
+	 124 of 617 
+
+	pair: ('advancements', 'advances')
+	dice: 0
+	 124 of 617 
+
+	pair: ('advancements', 'advancing')
+	dice: 0
+	 124 of 617 
+
+	pair: ('advances', 'advancing')
+	dice: 0
+	 124 of 617 
+
+
+stem: advantag
+	stem class: ['advantage', 'advantageous', 'advantages'] 
+
+	pair: ('advantage', 'advantageous')
+	dice: 0
+	 125 of 617 
+
+	pair: ('advantage', 'advantages')
+	dice: 0.022222222222222223
+	 125 of 617 
+
+	pair: ('advantageous', 'advantages')
+	dice: 0
+	 125 of 617 
+
+
+stem: adventur
+	stem class: ['adventure', 'adventurer', 'adventurers', 'adventures', 'adventurous'] 
+
+	pair: ('adventure', 'adventurer')
+	dice: 0.058823529411764705
+	 126 of 617 
+
+	pair: ('adventure', 'adventurers')
+	dice: 0
+	 126 of 617 
+
+	pair: ('adventure', 'adventures')
+	dice: 0.05454545454545454
+	 126 of 617 
+
+	pair: ('adventure', 'adventurous')
+	dice: 0
+	 126 of 617 
+
+	pair: ('adventurer', 'adventurers')
+	dice: 0
+	 126 of 617 
+
+	pair: ('adventurer', 'adventures')
+	dice: 0.030303030303030304
+	 126 of 617 
+
+	pair: ('adventurer', 'adventurous')
+	dice: 0
+	 126 of 617 
+
+	pair: ('adventurers', 'adventures')
+	dice: 0
+	 126 of 617 
+
+	pair: ('adventurers', 'adventurous')
+	dice: 0
+	 126 of 617 
+
+	pair: ('adventures', 'adventurous')
+	dice: 0
+	 126 of 617 
+
+
+stem: adversari
+	stem class: ['adversarial', 'adversaries', 'adversary'] 
+
+	pair: ('adversarial', 'adversaries')
+	dice: 0
+	 127 of 617 
+
+	pair: ('adversarial', 'adversary')
+	dice: 0
+	 127 of 617 
+
+	pair: ('adversaries', 'adversary')
+	dice: 0
+	 127 of 617 
+
+
+stem: advers
+	stem class: ['adverse', 'adversely', 'adversities', 'adversity'] 
+
+	pair: ('adverse', 'adversely')
+	dice: 0
+	 128 of 617 
+
+	pair: ('adverse', 'adversities')
+	dice: 0
+	 128 of 617 
+
+	pair: ('adverse', 'adversity')
+	dice: 0
+	 128 of 617 
+
+	pair: ('adversely', 'adversities')
+	dice: 0
+	 128 of 617 
+
+	pair: ('adversely', 'adversity')
+	dice: 0
+	 128 of 617 
+
+	pair: ('adversities', 'adversity')
+	dice: 0
+	 128 of 617 
+
+
+stem: advert
+	stem class: ['advert', 'adverts'] 
+
+	pair: ('advert', 'adverts')
+	dice: 0.16666666666666666
+	 129 of 617 
+
+
+stem: advertis
+	stem class: ['advertise', 'advertised', 'advertisement', 'advertisements', 'advertisers', 'advertises', 'advertising'] 
+
+	pair: ('advertise', 'advertised')
+	dice: 0.10526315789473684
+	 130 of 617 
+
+	pair: ('advertise', 'advertisement')
+	dice: 0
+	 130 of 617 
+
+	pair: ('advertise', 'advertisements')
+	dice: 0.125
+	 130 of 617 
+
+	pair: ('advertise', 'advertisers')
+	dice: 0
+	 130 of 617 
+
+	pair: ('advertise', 'advertises')
+	dice: 0
+	 130 of 617 
+
+	pair: ('advertise', 'advertising')
+	dice: 0.0975609756097561
+	 130 of 617 
+
+	pair: ('advertised', 'advertisement')
+	dice: 0.04
+	 130 of 617 
+
+	pair: ('advertised', 'advertisements')
+	dice: 0.047619047619047616
+	 130 of 617 
+
+	pair: ('advertised', 'advertisers')
+	dice: 0.06666666666666667
+	 130 of 617 
+
+	pair: ('advertised', 'advertises')
+	dice: 0.06666666666666667
+	 130 of 617 
+
+	pair: ('advertised', 'advertising')
+	dice: 0.06521739130434782
+	 130 of 617 
+
+	pair: ('advertisement', 'advertisements')
+	dice: 0.045454545454545456
+	 130 of 617 
+
+	pair: ('advertisement', 'advertisers')
+	dice: 0.0625
+	 130 of 617 
+
+	pair: ('advertisement', 'advertises')
+	dice: 0
+	 130 of 617 
+
+	pair: ('advertisement', 'advertising')
+	dice: 0.06382978723404255
+	 130 of 617 
+
+	pair: ('advertisements', 'advertisers')
+	dice: 0.08333333333333333
+	 130 of 617 
+
+	pair: ('advertisements', 'advertises')
+	dice: 0
+	 130 of 617 
+
+	pair: ('advertisements', 'advertising')
+	dice: 0.09302325581395349
+	 130 of 617 
+
+	pair: ('advertisers', 'advertises')
+	dice: 0
+	 130 of 617 
+
+	pair: ('advertisers', 'advertising')
+	dice: 0.08108108108108109
+	 130 of 617 
+
+	pair: ('advertises', 'advertising')
+	dice: 0
+	 130 of 617 
+
+
+stem: advis
+	stem class: ['advisable', 'advise', 'advised', 'adviser', 'advisers', 'advises', 'advising'] 
+
+	pair: ('advisable', 'advise')
+	dice: 0
+	 131 of 617 
+
+	pair: ('advisable', 'advised')
+	dice: 0.045454545454545456
+	 131 of 617 
+
+	pair: ('advisable', 'adviser')
+	dice: 0
+	 131 of 617 
+
+	pair: ('advisable', 'advisers')
+	dice: 0
+	 131 of 617 
+
+	pair: ('advisable', 'advises')
+	dice: 0
+	 131 of 617 
+
+	pair: ('advisable', 'advising')
+	dice: 0
+	 131 of 617 
+
+	pair: ('advise', 'advised')
+	dice: 0.05
+	 131 of 617 
+
+	pair: ('advise', 'adviser')
+	dice: 0
+	 131 of 617 
+
+	pair: ('advise', 'advisers')
+	dice: 0
+	 131 of 617 
+
+	pair: ('advise', 'advises')
+	dice: 0
+	 131 of 617 
+
+	pair: ('advise', 'advising')
+	dice: 0
+	 131 of 617 
+
+	pair: ('advised', 'adviser')
+	dice: 0.029411764705882353
+	 131 of 617 
+
+	pair: ('advised', 'advisers')
+	dice: 0
+	 131 of 617 
+
+	pair: ('advised', 'advises')
+	dice: 0.04
+	 131 of 617 
+
+	pair: ('advised', 'advising')
+	dice: 0
+	 131 of 617 
+
+	pair: ('adviser', 'advisers')
+	dice: 0
+	 131 of 617 
+
+	pair: ('adviser', 'advises')
+	dice: 0.07407407407407407
+	 131 of 617 
+
+	pair: ('adviser', 'advising')
+	dice: 0.043478260869565216
+	 131 of 617 
+
+	pair: ('advisers', 'advises')
+	dice: 0
+	 131 of 617 
+
+	pair: ('advisers', 'advising')
+	dice: 0
+	 131 of 617 
+
+	pair: ('advises', 'advising')
+	dice: 0
+	 131 of 617 
+
+
+stem: advisor
+	stem class: ['advisor', 'advisors'] 
+
+	pair: ('advisor', 'advisors')
+	dice: 0
+	 132 of 617 
+
+
+stem: advisori
+	stem class: ['advisories', 'advisory'] 
+
+	pair: ('advisories', 'advisory')
+	dice: 0
+	 133 of 617 
+
+
+stem: advoc
+	stem class: ['advocate', 'advocated', 'advocates', 'advocating'] 
+
+	pair: ('advocate', 'advocated')
+	dice: 0.10869565217391304
+	 134 of 617 
+
+	pair: ('advocate', 'advocates')
+	dice: 0.06818181818181818
+	 134 of 617 
+
+	pair: ('advocate', 'advocating')
+	dice: 0.05263157894736842
+	 134 of 617 
+
+	pair: ('advocated', 'advocates')
+	dice: 0.03125
+	 134 of 617 
+
+	pair: ('advocated', 'advocating')
+	dice: 0.07692307692307693
+	 134 of 617 
+
+	pair: ('advocates', 'advocating')
+	dice: 0.08333333333333333
+	 134 of 617 
+
+
+stem: aerat
+	stem class: ['aerate', 'aerating', 'aeration', 'aerator', 'aerators'] 
+
+	pair: ('aerate', 'aerating')
+	dice: 0.5
+	 135 of 617 
+
+	pair: ('aerate', 'aeration')
+	dice: 0.5
+	 135 of 617 
+
+	pair: ('aerate', 'aerator')
+	dice: 0.5
+	 135 of 617 
+
+	pair: ('aerate', 'aerators')
+	dice: 0.5
+	 135 of 617 
+
+	pair: ('aerating', 'aeration')
+	dice: 0.5
+	 135 of 617 
+
+	pair: ('aerating', 'aerator')
+	dice: 0.5
+	 135 of 617 
+
+	pair: ('aerating', 'aerators')
+	dice: 0.5
+	 135 of 617 
+
+	pair: ('aeration', 'aerator')
+	dice: 0.5
+	 135 of 617 
+
+	pair: ('aeration', 'aerators')
+	dice: 0.5
+	 135 of 617 
+
+	pair: ('aerator', 'aerators')
+	dice: 0.5
+	 135 of 617 
+
+
+stem: aerial
+	stem class: ['aerial', 'aerials'] 
+
+	pair: ('aerial', 'aerials')
+	dice: 0.041666666666666664
+	 136 of 617 
+
+
+stem: aero
+	stem class: ['aero', 'aeros'] 
+
+	pair: ('aero', 'aeros')
+	dice: 0
+	 137 of 617 
+
+
+stem: aerodynam
+	stem class: ['aerodynamic', 'aerodynamically', 'aerodynamics'] 
+
+	pair: ('aerodynamic', 'aerodynamically')
+	dice: 0.16666666666666666
+	 138 of 617 
+
+	pair: ('aerodynamic', 'aerodynamics')
+	dice: 0.16666666666666666
+	 138 of 617 
+
+	pair: ('aerodynamically', 'aerodynamics')
+	dice: 0.5
+	 138 of 617 
+
+
+stem: aeronaut
+	stem class: ['aeronautical', 'aeronautics'] 
+
+	pair: ('aeronautical', 'aeronautics')
+	dice: 0
+	 139 of 617 
+
+
+stem: aeroplan
+	stem class: ['aeroplane', 'aeroplanes'] 
+
+	pair: ('aeroplane', 'aeroplanes')
+	dice: 0
+	 140 of 617 
+
+
+stem: aesthet
+	stem class: ['aesthetic', 'aesthetically', 'aesthetics'] 
+
+	pair: ('aesthetic', 'aesthetically')
+	dice: 0.045454545454545456
+	 141 of 617 
+
+	pair: ('aesthetic', 'aesthetics')
+	dice: 0.1111111111111111
+	 141 of 617 
+
+	pair: ('aesthetically', 'aesthetics')
+	dice: 0.09090909090909091
+	 141 of 617 
+
+
+stem: affair
+	stem class: ['affair', 'affaires', 'affairs'] 
+
+	pair: ('affair', 'affaires')
+	dice: 0
+	 142 of 617 
+
+	pair: ('affair', 'affairs')
+	dice: 0.05454545454545454
+	 142 of 617 
+
+	pair: ('affaires', 'affairs')
+	dice: 0
+	 142 of 617 
+
+
+stem: affect
+	stem class: ['affect', 'affectation', 'affected', 'affecting', 'affection', 'affections', 'affective', 'affects'] 
+
+	pair: ('affect', 'affectation')
+	dice: 0
+	 143 of 617 
+
+	pair: ('affect', 'affected')
+	dice: 0.07608695652173914
+	 143 of 617 
+
+	pair: ('affect', 'affecting')
+	dice: 0.05405405405405406
+	 143 of 617 
+
+	pair: ('affect', 'affection')
+	dice: 0
+	 143 of 617 
+
+	pair: ('affect', 'affections')
+	dice: 0
+	 143 of 617 
+
+	pair: ('affect', 'affective')
+	dice: 0
+	 143 of 617 
+
+	pair: ('affect', 'affects')
+	dice: 0.11363636363636363
+	 143 of 617 
+
+	pair: ('affectation', 'affected')
+	dice: 0
+	 143 of 617 
+
+	pair: ('affectation', 'affecting')
+	dice: 0
+	 143 of 617 
+
+	pair: ('affectation', 'affection')
+	dice: 0.045454545454545456
+	 143 of 617 
+
+	pair: ('affectation', 'affections')
+	dice: 0
+	 143 of 617 
+
+	pair: ('affectation', 'affective')
+	dice: 0
+	 143 of 617 
+
+	pair: ('affectation', 'affects')
+	dice: 0
+	 143 of 617 
+
+	pair: ('affected', 'affecting')
+	dice: 0.0410958904109589
+	 143 of 617 
+
+	pair: ('affected', 'affection')
+	dice: 0.011904761904761904
+	 143 of 617 
+
+	pair: ('affected', 'affections')
+	dice: 0.030303030303030304
+	 143 of 617 
+
+	pair: ('affected', 'affective')
+	dice: 0
+	 143 of 617 
+
+	pair: ('affected', 'affects')
+	dice: 0.0625
+	 143 of 617 
+
+	pair: ('affecting', 'affection')
+	dice: 0
+	 143 of 617 
+
+	pair: ('affecting', 'affections')
+	dice: 0
+	 143 of 617 
+
+	pair: ('affecting', 'affective')
+	dice: 0
+	 143 of 617 
+
+	pair: ('affecting', 'affects')
+	dice: 0.08
+	 143 of 617 
+
+	pair: ('affection', 'affections')
+	dice: 0
+	 143 of 617 
+
+	pair: ('affection', 'affective')
+	dice: 0
+	 143 of 617 
+
+	pair: ('affection', 'affects')
+	dice: 0.027777777777777776
+	 143 of 617 
+
+	pair: ('affections', 'affective')
+	dice: 0
+	 143 of 617 
+
+	pair: ('affections', 'affects')
+	dice: 0
+	 143 of 617 
+
+	pair: ('affective', 'affects')
+	dice: 0
+	 143 of 617 
+
+
+stem: affection
+	stem class: ['affectionate', 'affectionately'] 
+
+	pair: ('affectionate', 'affectionately')
+	dice: 0
+	 144 of 617 
+
+
+stem: affili
+	stem class: ['affiliate', 'affiliated', 'affiliates', 'affiliation', 'affiliations'] 
+
+	pair: ('affiliate', 'affiliated')
+	dice: 0.013333333333333334
+	 145 of 617 
+
+	pair: ('affiliate', 'affiliates')
+	dice: 0.12903225806451613
+	 145 of 617 
+
+	pair: ('affiliate', 'affiliation')
+	dice: 0.10526315789473684
+	 145 of 617 
+
+	pair: ('affiliate', 'affiliations')
+	dice: 0
+	 145 of 617 
+
+	pair: ('affiliated', 'affiliates')
+	dice: 0
+	 145 of 617 
+
+	pair: ('affiliated', 'affiliation')
+	dice: 0.029850746268656716
+	 145 of 617 
+
+	pair: ('affiliated', 'affiliations')
+	dice: 0
+	 145 of 617 
+
+	pair: ('affiliates', 'affiliation')
+	dice: 0.08695652173913043
+	 145 of 617 
+
+	pair: ('affiliates', 'affiliations')
+	dice: 0
+	 145 of 617 
+
+	pair: ('affiliation', 'affiliations')
+	dice: 0
+	 145 of 617 
+
+
+stem: affin
+	stem class: ['affine', 'affinities', 'affinity'] 
+
+	pair: ('affine', 'affinities')
+	dice: 0
+	 146 of 617 
+
+	pair: ('affine', 'affinity')
+	dice: 0
+	 146 of 617 
+
+	pair: ('affinities', 'affinity')
+	dice: 0.1
+	 146 of 617 
+
+
+stem: affirm
+	stem class: ['affirm', 'affirmation', 'affirmative', 'affirmed', 'affirming'] 
+
+	pair: ('affirm', 'affirmation')
+	dice: 0
+	 147 of 617 
+
+	pair: ('affirm', 'affirmative')
+	dice: 0
+	 147 of 617 
+
+	pair: ('affirm', 'affirmed')
+	dice: 0
+	 147 of 617 
+
+	pair: ('affirm', 'affirming')
+	dice: 0
+	 147 of 617 
+
+	pair: ('affirmation', 'affirmative')
+	dice: 0
+	 147 of 617 
+
+	pair: ('affirmation', 'affirmed')
+	dice: 0
+	 147 of 617 
+
+	pair: ('affirmation', 'affirming')
+	dice: 0
+	 147 of 617 
+
+	pair: ('affirmative', 'affirmed')
+	dice: 0
+	 147 of 617 
+
+	pair: ('affirmative', 'affirming')
+	dice: 0
+	 147 of 617 
+
+	pair: ('affirmed', 'affirming')
+	dice: 0
+	 147 of 617 
+
+
+stem: affix
+	stem class: ['affixed', 'affixing'] 
+
+	pair: ('affixed', 'affixing')
+	dice: 0
+	 148 of 617 
+
+
+stem: afflict
+	stem class: ['affliction', 'afflictions'] 
+
+	pair: ('affliction', 'afflictions')
+	dice: 0
+	 149 of 617 
+
+
+stem: afford
+	stem class: ['afford', 'affordable', 'affordance', 'afforded', 'affords'] 
+
+	pair: ('afford', 'affordable')
+	dice: 0
+	 150 of 617 
+
+	pair: ('afford', 'affordance')
+	dice: 0
+	 150 of 617 
+
+	pair: ('afford', 'afforded')
+	dice: 0
+	 150 of 617 
+
+	pair: ('afford', 'affords')
+	dice: 0
+	 150 of 617 
+
+	pair: ('affordable', 'affordance')
+	dice: 0
+	 150 of 617 
+
+	pair: ('affordable', 'afforded')
+	dice: 0
+	 150 of 617 
+
+	pair: ('affordable', 'affords')
+	dice: 0
+	 150 of 617 
+
+	pair: ('affordance', 'afforded')
+	dice: 0
+	 150 of 617 
+
+	pair: ('affordance', 'affords')
+	dice: 0
+	 150 of 617 
+
+	pair: ('afforded', 'affords')
+	dice: 0
+	 150 of 617 
+
+
+stem: affront
+	stem class: ['affront', 'affronted'] 
+
+	pair: ('affront', 'affronted')
+	dice: 0
+	 151 of 617 
+
+
+stem: aficionado
+	stem class: ['aficionado', 'aficionados'] 
+
+	pair: ('aficionado', 'aficionados')
+	dice: 0
+	 152 of 617 
+
+
+
+
+stem: abandon
+	stem threshold: 0.002
+	dice: 0.031914893617021274
+	old stem class: ['abandon', 'abandoned', 'abandoning', 'abandonment'] 
+
+	New stem class for stem:
+	 ['abandonment', 'abandon', 'abandoning', 'abandoned']
+
+
+
+stem: abbei
+	stem threshold: 0.002
+	dice: 0.043478260869565216
+	old stem class: ['abbey', 'abbeys'] 
+
+	New stem class for stem:
+	 ['abbey', 'abbeys']
+
+stem: abbot
+	stem threshold: 0.002
+	dice: 0.09090909090909091
+	old stem class: ['abbot', 'abbots'] 
+
+	New stem class for stem:
+	 ['abbot', 'abbots']
+
+
+stem: abbrevi
+	stem threshold: 0.002
+	dice: 0.05555555555555555
+	old stem class: ['abbreviated', 'abbreviation', 'abbreviations'] 
+
+	New stem class for stem:
+	 ['abbreviated', 'abbreviations']
+
+
+stem: abduct
+	stem threshold: 0.002
+	dice: 0.125
+	old stem class: ['abduct', 'abducted', 'abduction', 'abductions'] 
+
+	New stem class for stem:
+	 ['abduction', 'abductions', 'abducted']
+
+
+
+stem: abil
+	stem threshold: 0.002
+	dice: 0.10614525139664804
+	old stem class: ['abilities', 'ability'] 
+
+	New stem class for stem:
+	 ['ability', 'abilities']
+
+stem: abl
+	stem threshold: 0.002
+	dice: 0.004405286343612335
+	old stem class: ['able', 'abled', 'ables'] 
+
+	New stem class for stem:
+	 ['ables', 'able']
+
+
+
+stem: abomin
+	stem threshold: 0.002
+	dice: 0.3333333333333333
+	old stem class: ['abomination', 'abominations'] 
+
+	New stem class for stem:
+	 ['abominations', 'abomination']
+
+stem: aborigin
+	stem threshold: 0.002
+	dice: 0.1875
+	old stem class: ['aboriginal', 'aborigines'] 
+
+	New stem class for stem:
+	 ['aboriginal', 'aborigines']
+
+stem: abort
+	stem threshold: 0.002
+	dice: 0.1111111111111111
+	old stem class: ['abort', 'aborted', 'abortion', 'abortive'] 
+
+	New stem class for stem:
+	 ['abortion', 'abort']
+
+
+
+
+stem: abridg
+	stem threshold: 0.002
+	dice: 0.5
+	old stem class: ['abridged', 'abridgement', 'abridging', 'abridgment'] 
+
+	New stem class for stem:
+	 ['abridgement', 'abridging', 'abridgment']
+
+stem: abrog
+	stem threshold: 0.002
+	dice: 0.25
+	old stem class: ['abrogated', 'abrogation'] 
+
+	New stem class for stem:
+	 ['abrogation', 'abrogated']
+
+
+
+stem: absent
+	stem threshold: 0.002
+	dice: 0.041666666666666664
+	old stem class: ['absent', 'absented'] 
+
+	New stem class for stem:
+	 ['absent', 'absented']
+
+stem: absolut
+	stem threshold: 0.002
+	dice: 0.0625
+	old stem class: ['absolut', 'absolute', 'absolutely', 'absolutes', 'absolution', 'absolutism'] 
+
+	New stem class for stem:
+	 ['absolution', 'absolutes', 'absolute', 'absolutely']
+
+stem: absolv
+	stem threshold: 0.002
+	dice: 0.2
+	old stem class: ['absolve', 'absolved'] 
+
+	New stem class for stem:
+	 ['absolve', 'absolved']
+
+stem: absorb
+	stem threshold: 0.002
+	dice: 0.06666666666666667
+	old stem class: ['absorb', 'absorbance', 'absorbed', 'absorbency', 'absorbent', 'absorbing', 'absorbs'] 
+
+	New stem class for stem:
+	 ['absorbed', 'absorbs', 'absorbing']
+
+
+stem: abstract
+	stem threshold: 0.002
+	dice: 0.16666666666666666
+	old stem class: ['abstract', 'abstracted', 'abstraction', 'abstractions', 'abstracts'] 
+
+	New stem class for stem:
+	 ['abstract', 'abstraction', 'abstractions']
+
+
+
+stem: abt
+	stem threshold: 0.002
+	dice: 0.3333333333333333
+	old stem class: ['abt', 'abts'] 
+
+	New stem class for stem:
+	 ['abt', 'abts']
+
+stem: abugida
+	stem threshold: 0.002
+	dice: 0.5
+	old stem class: ['abugida', 'abugidas'] 
+
+	New stem class for stem:
+	 ['abugidas', 'abugida']
+
+
+stem: abus
+	stem threshold: 0.002
+	dice: 0.02857142857142857
+	old stem class: ['abuse', 'abused', 'abusers', 'abuses', 'abusing', 'abusive'] 
+
+	New stem class for stem:
+	 ['abuses', 'abused', 'abusive', 'abuse', 'abusers']
+
+
+
+
+
+stem: academ
+	stem threshold: 0.002
+	dice: 0.05
+	old stem class: ['academe', 'academic', 'academically', 'academics'] 
+
+	New stem class for stem:
+	 ['academics', 'academically', 'academic']
+
+stem: academician
+	stem threshold: 0.002
+	dice: 0.4
+	old stem class: ['academician', 'academicians'] 
+
+	New stem class for stem:
+	 ['academicians', 'academician']
+
+stem: academi
+	stem threshold: 0.002
+	dice: 0.02564102564102564
+	old stem class: ['academies', 'academy'] 
+
+	New stem class for stem:
+	 ['academies', 'academy']
+
+stem: acceler
+	stem threshold: 0.002
+	dice: 0.4
+	old stem class: ['accelerate', 'accelerated', 'accelerates', 'accelerating', 'acceleration', 'accelerations', 'accelerator', 'accelerators'] 
+
+	New stem class for stem:
+	 ['accelerating', 'accelerators', 'accelerator', 'accelerates', 'accelerated', 'acceleration', 'accelerate', 'accelerations']
+
+stem: accent
+	stem threshold: 0.002
+	dice: 0.06666666666666667
+	old stem class: ['accent', 'accented', 'accents'] 
+
+	New stem class for stem:
+	 ['accented', 'accent']
+
+
+stem: accept
+	stem threshold: 0.002
+	dice: 0.018867924528301886
+	old stem class: ['accept', 'acceptable', 'acceptance', 'accepted', 'accepting', 'accepts'] 
+
+	New stem class for stem:
+	 ['accepts', 'accepting', 'acceptable', 'accepted', 'accept', 'acceptance']
+
+stem: access
+	stem threshold: 0.002
+	dice: 0.05
+	old stem class: ['access', 'accessed', 'accessibility', 'accessible', 'accessing', 'accession', 'accessioned'] 
+
+	New stem class for stem:
+	 ['accessed', 'accessing', 'accession', 'access', 'accessibility', 'accessible']
+
+
+stem: accid
+	stem threshold: 0.002
+	dice: 0.030303030303030304
+	old stem class: ['accident', 'accidents'] 
+
+	New stem class for stem:
+	 ['accidents', 'accident']
+
+stem: accident
+	stem threshold: 0.002
+	dice: 0.03571428571428571
+	old stem class: ['accidental', 'accidentally'] 
+
+	New stem class for stem:
+	 ['accidentally', 'accidental']
+
+stem: acclaim
+	stem threshold: 0.002
+	dice: 0.027777777777777776
+	old stem class: ['acclaim', 'acclaimed'] 
+
+	New stem class for stem:
+	 ['acclaim', 'acclaimed']
+
+stem: acclam
+	stem threshold: 0.002
+	dice: 0.3333333333333333
+	old stem class: ['acclamation', 'acclamations'] 
+
+	New stem class for stem:
+	 ['acclamations', 'acclamation']
+
+stem: accommod
+	stem threshold: 0.002
+	dice: 0.1
+	old stem class: ['accommodate', 'accommodated', 'accommodates', 'accommodating', 'accommodation', 'accommodations'] 
+
+	New stem class for stem:
+	 ['accommodate', 'accommodates', 'accommodated', 'accommodation', 'accommodating']
+
+stem: accompani
+	stem threshold: 0.002
+	dice: 0.06451612903225806
+	old stem class: ['accompanied', 'accompanies', 'accompaniment', 'accompaniments', 'accompany', 'accompanying'] 
+
+	New stem class for stem:
+	 ['accompany', 'accompaniments', 'accompanied', 'accompaniment', 'accompanying']
+
+
+stem: accomplish
+	stem threshold: 0.002
+	dice: 0.043478260869565216
+	old stem class: ['accomplish', 'accomplished', 'accomplishment', 'accomplishments'] 
+
+	New stem class for stem:
+	 ['accomplishments', 'accomplishment', 'accomplished']
+
+stem: accord
+	stem threshold: 0.002
+	dice: 0.003215434083601286
+	old stem class: ['accord', 'accordance', 'accorded', 'accordence', 'according', 'accords'] 
+
+	New stem class for stem:
+	 ['accorded', 'accordance', 'accord', 'according', 'accordence']
+
+
+
+stem: account
+	stem threshold: 0.002
+	dice: 0.02857142857142857
+	old stem class: ['account', 'accountability', 'accountable', 'accountancy', 'accountant', 'accountants', 'accounted', 'accounting', 'accounts'] 
+
+	New stem class for stem:
+	 ['accountancy', 'accounted', 'accountant', 'accounts', 'accountable', 'accounting', 'account', 'accountants']
+
+stem: accredit
+	stem threshold: 0.002
+	dice: 0.0625
+	old stem class: ['accreditation', 'accredited', 'accrediting'] 
+
+	New stem class for stem:
+	 ['accrediting', 'accredited', 'accreditation']
+
+stem: accret
+	stem threshold: 0.002
+	dice: 0.3333333333333333
+	old stem class: ['accrete', 'accreted', 'accretes', 'accreting', 'accretion'] 
+
+	New stem class for stem:
+	 ['accreted', 'accreting', 'accrete', 'accretion']
+
+stem: accumul
+	stem threshold: 0.002
+	dice: 0.09090909090909091
+	old stem class: ['accumulate', 'accumulated', 'accumulates', 'accumulating', 'accumulation', 'accumulations', 'accumulator', 'accumulators'] 
+
+	New stem class for stem:
+	 ['accumulate', 'accumulated']
+
+stem: accur
+	stem threshold: 0.002
+	dice: 0.08163265306122448
+	old stem class: ['accurate', 'accurately'] 
+
+	New stem class for stem:
+	 ['accurately', 'accurate']
+
+stem: accus
+	stem threshold: 0.002
+	dice: 0.09523809523809523
+	old stem class: ['accusation', 'accusations', 'accusative', 'accuse', 'accused', 'accuses', 'accusing'] 
+
+	New stem class for stem:
+	 ['accuse', 'accusing', 'accuses', 'accusation', 'accusations', 'accused']
+
+
+stem: achiev
+	stem threshold: 0.002
+	dice: 0.04
+	old stem class: ['achievable', 'achieve', 'achieved', 'achievement', 'achievements', 'achievers', 'achieves', 'achieving'] 
+
+	New stem class for stem:
+	 ['achievements', 'achieved', 'achievable', 'achieves', 'achievement', 'achieving', 'achieve']
+
+
+
+stem: acid
+	stem threshold: 0.002
+	dice: 0.125
+	old stem class: ['acid', 'acidic', 'acidity', 'acids'] 
+
+	New stem class for stem:
+	 ['acidic', 'acidity', 'acids', 'acid']
+
+stem: acknowledg
+	stem threshold: 0.002
+	dice: 0.041666666666666664
+	old stem class: ['acknowledge', 'acknowledged', 'acknowledgement', 'acknowledges', 'acknowledging', 'acknowledgment', 'acknowledgments'] 
+
+	New stem class for stem:
+	 ['acknowledges', 'acknowledged', 'acknowledge', 'acknowledgments', 'acknowledgement', 'acknowledging']
+
+
+stem: acoust
+	stem threshold: 0.002
+	dice: 0.25
+	old stem class: ['acoustic', 'acoustical', 'acoustically', 'acoustics'] 
+
+	New stem class for stem:
+	 ['acoustical', 'acoustically', 'acoustic']
+
+stem: acquaint
+	stem threshold: 0.002
+	dice: 0.0625
+	old stem class: ['acquaintance', 'acquaintances', 'acquainted', 'acquainting'] 
+
+	New stem class for stem:
+	 ['acquaintance', 'acquainted']
+
+
+stem: acquir
+	stem threshold: 0.002
+	dice: 0.09090909090909091
+	old stem class: ['acquire', 'acquired', 'acquirer', 'acquires', 'acquiring'] 
+
+	New stem class for stem:
+	 ['acquiring', 'acquire', 'acquired', 'acquires', 'acquirer']
+
+stem: acquisit
+	stem threshold: 0.002
+	dice: 0.08
+	old stem class: ['acquisition', 'acquisitions'] 
+
+	New stem class for stem:
+	 ['acquisitions', 'acquisition']
+
+
+stem: acr
+	stem threshold: 0.002
+	dice: 0.140625
+	old stem class: ['acre', 'acres'] 
+
+	New stem class for stem:
+	 ['acre', 'acres']
+
+
+stem: acryl
+	stem threshold: 0.002
+	dice: 0.5
+	old stem class: ['acrylate', 'acrylics'] 
+
+	New stem class for stem:
+	 ['acrylate', 'acrylics']
+
+stem: act
+	stem threshold: 0.002
+	dice: 0.052941176470588235
+	old stem class: ['act', 'acted', 'acting', 'acts'] 
+
+	New stem class for stem:
+	 ['act', 'acted', 'acts', 'acting']
+
+stem: action
+	stem threshold: 0.002
+	dice: 0.10756972111553785
+	old stem class: ['action', 'actiones', 'actions'] 
+
+	New stem class for stem:
+	 ['action', 'actions']
+
+stem: activ
+	stem threshold: 0.002
+	dice: 0.0995260663507109
+	old stem class: ['activ', 'activate', 'activated', 'activates', 'activating', 'activation', 'active', 'actively', 'activism', 'activities', 'activity'] 
+
+	New stem class for stem:
+	 ['activism', 'activities', 'active', 'activation', 'actively', 'activated', 'activates', 'activate', 'activating', 'activity']
+
+
+stem: actor
+	stem threshold: 0.002
+	dice: 0.11578947368421053
+	old stem class: ['actor', 'actors'] 
+
+	New stem class for stem:
+	 ['actors', 'actor']
+
+stem: actress
+	stem threshold: 0.002
+	dice: 0.11904761904761904
+	old stem class: ['actress', 'actresses'] 
+
+	New stem class for stem:
+	 ['actresses', 'actress']
+
+stem: actual
+	stem threshold: 0.002
+	dice: 0.0058823529411764705
+	old stem class: ['actual', 'actuality', 'actualizing', 'actually'] 
+
+	New stem class for stem:
+	 ['actual', 'actuality', 'actually']
+
+stem: acut
+	stem threshold: 0.002
+	dice: 0.05263157894736842
+	old stem class: ['acute', 'acutely'] 
+
+	New stem class for stem:
+	 ['acute', 'acutely']
+
+stem: ad
+	stem threshold: 0.002
+	dice: 0.005555555555555556
+	old stem class: ['ad', 'added', 'adding', 'ade', 'ads'] 
+
+	New stem class for stem:
+	 ['added', 'ade', 'adding', 'ads', 'ad']
+
+
+stem: adam
+	stem threshold: 0.002
+	dice: 0.020833333333333332
+	old stem class: ['adam', 'adamant', 'adams'] 
+
+	New stem class for stem:
+	 ['adam', 'adams']
+
+stem: adapt
+	stem threshold: 0.002
+	dice: 0.25
+	old stem class: ['adapt', 'adaptability', 'adaptation', 'adaptations', 'adapted', 'adapter', 'adapters', 'adapting', 'adaption', 'adaptive'] 
+
+	New stem class for stem:
+	 ['adaptations', 'adapted', 'adapting', 'adapters', 'adapt', 'adapter', 'adaptation', 'adaptive', 'adaption']
+
+stem: add
+	stem threshold: 0.002
+	dice: 0.05084745762711865
+	old stem class: ['add', 'adds'] 
+
+	New stem class for stem:
+	 ['adds', 'add']
+
+stem: addict
+	stem threshold: 0.002
+	dice: 0.08333333333333333
+	old stem class: ['addict', 'addicted', 'addiction', 'addictive', 'addicts'] 
+
+	New stem class for stem:
+	 ['addiction', 'addicted']
+
+stem: addit
+	stem threshold: 0.002
+	dice: 0.006944444444444444
+	old stem class: ['addition', 'additional', 'additions', 'additive', 'additives', 'additivity'] 
+
+	New stem class for stem:
+	 ['additivity', 'additional', 'additive', 'addition', 'additions']
+
+stem: address
+	stem threshold: 0.002
+	dice: 0.09375
+	old stem class: ['address', 'addressed', 'addresses', 'addressing'] 
+
+	New stem class for stem:
+	 ['addressed', 'address', 'addressing', 'addresses']
+
+
+
+stem: adher
+	stem threshold: 0.002
+	dice: 0.07692307692307693
+	old stem class: ['adhere', 'adhered', 'adherence', 'adherent', 'adherents', 'adheres', 'adhering'] 
+
+	New stem class for stem:
+	 ['adherents', 'adherence']
+
+
+
+
+
+stem: adjourn
+	stem threshold: 0.002
+	dice: 0.3333333333333333
+	old stem class: ['adjourned', 'adjournment'] 
+
+	New stem class for stem:
+	 ['adjournment', 'adjourned']
+
+stem: adjust
+	stem threshold: 0.002
+	dice: 0.125
+	old stem class: ['adjust', 'adjustable', 'adjusted', 'adjusting', 'adjustment', 'adjustments', 'adjusts'] 
+
+	New stem class for stem:
+	 ['adjustments', 'adjusts', 'adjustment', 'adjust', 'adjusting', 'adjustable', 'adjusted']
+
+
+stem: administ
+	stem threshold: 0.002
+	dice: 0.030303030303030304
+	old stem class: ['administer', 'administered', 'administering', 'administers'] 
+
+	New stem class for stem:
+	 ['administered', 'administer', 'administers']
+
+stem: administr
+	stem threshold: 0.002
+	dice: 0.0759493670886076
+	old stem class: ['administrate', 'administrated', 'administration', 'administrations', 'administrative', 'administratively', 'administrator', 'administrators'] 
+
+	New stem class for stem:
+	 ['administrator', 'administratively', 'administration', 'administrative', 'administrators', 'administrated', 'administrations', 'administrate']
+
+stem: admir
+	stem threshold: 0.002
+	dice: 0.041666666666666664
+	old stem class: ['admirable', 'admiral', 'admirals', 'admiration', 'admire', 'admired', 'admirer', 'admirers', 'admires', 'admiring'] 
+
+	New stem class for stem:
+	 ['admirals', 'admiral']
+	 ['admire', 'admired', 'admiration']
+
+stem: admiss
+	stem threshold: 0.002
+	dice: 0.07692307692307693
+	old stem class: ['admission', 'admissions'] 
+
+	New stem class for stem:
+	 ['admission', 'admissions']
+
+stem: admit
+	stem threshold: 0.002
+	dice: 0.06060606060606061
+	old stem class: ['admit', 'admits', 'admitted', 'admitting'] 
+
+	New stem class for stem:
+	 ['admit', 'admitted', 'admitting', 'admits']
+
+
+stem: adolesc
+	stem threshold: 0.002
+	dice: 0.1111111111111111
+	old stem class: ['adolescence', 'adolescent', 'adolescents'] 
+
+	New stem class for stem:
+	 ['adolescents', 'adolescent']
+
+stem: adopt
+	stem threshold: 0.002
+	dice: 0.0625
+	old stem class: ['adopt', 'adopted', 'adopters', 'adopting', 'adoption', 'adoptive', 'adopts'] 
+
+	New stem class for stem:
+	 ['adoption', 'adoptive', 'adopting', 'adopters', 'adopt', 'adopted']
+
+stem: ador
+	stem threshold: 0.002
+	dice: 0.5
+	old stem class: ['adorable', 'adoration', 'adore', 'adored', 'adores', 'adoring'] 
+
+	New stem class for stem:
+	 ['adores', 'adorable']
+
+
+stem: adult
+	stem threshold: 0.002
+	dice: 0.07766990291262135
+	old stem class: ['adult', 'adults'] 
+
+	New stem class for stem:
+	 ['adult', 'adults']
+
+
+
+stem: advanc
+	stem threshold: 0.002
+	dice: 0.05128205128205128
+	old stem class: ['advance', 'advanced', 'advancement', 'advancements', 'advances', 'advancing'] 
+
+	New stem class for stem:
+	 ['advance', 'advances', 'advanced', 'advancements', 'advancement', 'advancing']
+
+stem: advantag
+	stem threshold: 0.002
+	dice: 0.022222222222222223
+	old stem class: ['advantage', 'advantageous', 'advantages'] 
+
+	New stem class for stem:
+	 ['advantages', 'advantage']
+
+stem: adventur
+	stem threshold: 0.002
+	dice: 0.030303030303030304
+	old stem class: ['adventure', 'adventurer', 'adventurers', 'adventures', 'adventurous'] 
+
+	New stem class for stem:
+	 ['adventures', 'adventurer', 'adventure']
+
+
+
+stem: advert
+	stem threshold: 0.002
+	dice: 0.16666666666666666
+	old stem class: ['advert', 'adverts'] 
+
+	New stem class for stem:
+	 ['adverts', 'advert']
+
+stem: advertis
+	stem threshold: 0.002
+	dice: 0.08108108108108109
+	old stem class: ['advertise', 'advertised', 'advertisement', 'advertisements', 'advertisers', 'advertises', 'advertising'] 
+
+	New stem class for stem:
+	 ['advertising', 'advertisements', 'advertise', 'advertisement', 'advertisers', 'advertises', 'advertised']
+
+stem: advis
+	stem threshold: 0.002
+	dice: 0.043478260869565216
+	old stem class: ['advisable', 'advise', 'advised', 'adviser', 'advisers', 'advises', 'advising'] 
+
+	New stem class for stem:
+	 ['advising', 'adviser', 'advises', 'advised', 'advisable', 'advise']
+
+
+
+stem: advoc
+	stem threshold: 0.002
+	dice: 0.08333333333333333
+	old stem class: ['advocate', 'advocated', 'advocates', 'advocating'] 
+
+	New stem class for stem:
+	 ['advocated', 'advocates', 'advocating', 'advocate']
+
+stem: aerat
+	stem threshold: 0.002
+	dice: 0.5
+	old stem class: ['aerate', 'aerating', 'aeration', 'aerator', 'aerators'] 
+
+	New stem class for stem:
+	 ['aerate', 'aerators', 'aerator', 'aeration', 'aerating']
+
+stem: aerial
+	stem threshold: 0.002
+	dice: 0.041666666666666664
+	old stem class: ['aerial', 'aerials'] 
+
+	New stem class for stem:
+	 ['aerials', 'aerial']
+
+
+stem: aerodynam
+	stem threshold: 0.002
+	dice: 0.5
+	old stem class: ['aerodynamic', 'aerodynamically', 'aerodynamics'] 
+
+	New stem class for stem:
+	 ['aerodynamics', 'aerodynamic', 'aerodynamically']
+
+
+
+stem: aesthet
+	stem threshold: 0.002
+	dice: 0.09090909090909091
+	old stem class: ['aesthetic', 'aesthetically', 'aesthetics'] 
+
+	New stem class for stem:
+	 ['aesthetically', 'aesthetics', 'aesthetic']
+
+stem: affair
+	stem threshold: 0.002
+	dice: 0.05454545454545454
+	old stem class: ['affair', 'affaires', 'affairs'] 
+
+	New stem class for stem:
+	 ['affair', 'affairs']
+
+stem: affect
+	stem threshold: 0.002
+	dice: 0.027777777777777776
+	old stem class: ['affect', 'affectation', 'affected', 'affecting', 'affection', 'affections', 'affective', 'affects'] 
+
+	New stem class for stem:
+	 ['affectation', 'affections', 'affecting', 'affect', 'affects', 'affected', 'affection']
+
+
+stem: affili
+	stem threshold: 0.002
+	dice: 0.08695652173913043
+	old stem class: ['affiliate', 'affiliated', 'affiliates', 'affiliation', 'affiliations'] 
+
+	New stem class for stem:
+	 ['affiliates', 'affiliate', 'affiliated', 'affiliation']
+
+stem: affin
+	stem threshold: 0.002
+	dice: 0.1
+	old stem class: ['affine', 'affinities', 'affinity'] 
+
+	New stem class for stem:
+	 ['affinities', 'affinity']
+
+
+
+
+
+
+

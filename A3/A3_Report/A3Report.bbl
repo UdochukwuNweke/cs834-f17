@@ -1,0 +1,48 @@
+\begin{thebibliography}{1}
+
+\bibitem{BigramLanguageModel}
+{B}igram {L}anguage {M}odel.
+\newblock http://www.phontron.com/slides/nlp-programming-en-02-bigramlm.pdf.
+\newblock Accessed: 2017-11-05.
+
+\bibitem{CountVectorizer}
+{C}ountvectorizer.
+\newblock http://scikit\-learn.org/stable/modules/feature\_extraction.html.
+\newblock Accessed: 2017-10-10.
+
+\bibitem{SearchEngines}
+{I}nformation {R}etrieval {i}n {P}ractice.
+\newblock http://ciir.cs.umass.edu/downloads/SEIRiP.pdf.
+\newblock Accessed: 2017-10-10.
+
+\bibitem{Wikipidia}
+{J}accard index.
+\newblock https://en.wikipedia.org/wiki/Multiset.
+\newblock Accessed: 2017-11-05.
+
+\bibitem{Justext}
+{J}ustext.
+\newblock https://pypi.python.org/pypi/jusText/2.1.1.
+\newblock Accessed: 2017-10-10.
+
+\bibitem{LanguageModeling}
+{L}anguage {M}odeling.
+\newblock https://web.stanford.edu/class/cs124/lec/languagemodeling.pdf.
+\newblock Accessed: 2017-11-05.
+
+\bibitem{LectureSlide}
+{L}ectureslide.
+\newblock https://raw.githubusercontent.com/phonedude/cs834-f17/.
+\newblock Accessed: 2017-11-05.
+
+\bibitem{PorterStemmer}
+{P}orterstemmer.
+\newblock https://pypi.python.org/pypi/PorterStemmer.
+\newblock Accessed: 2017-10-10.
+
+\bibitem{QueryLikelihoodModel}
+{Q}uery likelihood model.
+\newblock https://en.wikipedia.org/wiki/Query\_likelihood\_model.
+\newblock Accessed: 2017-11-05.
+
+\end{thebibliography}

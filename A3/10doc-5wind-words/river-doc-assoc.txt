@@ -1,0 +1,88 @@
+
+river vs
+	 1 term: 6210 MIM: 0.005
+	 2 term: latinik MIM: 0.005
+	 3 term: iwaszkiewicz MIM: 0.005
+	 4 term: stanisław MIM: 0.005
+	 5 term: burhardt MIM: 0.005
+	 6 term: bukacki MIM: 0.005
+	 7 term: lwów MIM: 0.005
+	 8 term: ciechanów MIM: 0.005
+	 9 term: modlin MIM: 0.005
+	 10 term: teodor MIM: 0.005
+	 11 term: wyrwa MIM: 0.005
+	 12 term: furgalski MIM: 0.005
+	 13 term: mława MIM: 0.005
+	 14 term: mazovian MIM: 0.005
+	 15 term: grudusk MIM: 0.005
+	 16 term: przasnysz MIM: 0.005
+	 17 term: saboteurs MIM: 0.005
+	 18 term: zając MIM: 0.005
+	 19 term: sosabowski MIM: 0.005
+	 20 term: opinogóra MIM: 0.005
+
+river vs
+	 1 term: area EMIM: 71.27889467409821
+	 2 term: north EMIM: 60.18439342767834
+	 3 term: south EMIM: 59.71941694328326
+	 4 term: east EMIM: 56.93557830160639
+	 5 term: near EMIM: 56.509276331844404
+	 6 term: west EMIM: 54.25142885627102
+	 7 term: town EMIM: 52.92404553586795
+	 8 term: miles EMIM: 39.52494128147861
+	 9 term: water EMIM: 39.34655332951298
+	 10 term: land EMIM: 38.98432450529282
+	 11 term: city EMIM: 38.20939776854703
+	 12 term: km EMIM: 34.086163086092306
+	 13 term: located EMIM: 34.03308771213252
+	 14 term: known EMIM: 33.88120839188714
+	 15 term: rivers EMIM: 33.68492083641189
+	 16 term: large EMIM: 33.578331110245344
+	 17 term: built EMIM: 33.53358136157487
+	 18 term: village EMIM: 33.09145558493566
+	 19 term: region EMIM: 32.99033597238275
+	 20 term: people EMIM: 32.89200049383179
+
+river vs
+	 1 term: rivers CHI-SQUARE: 0.06498417510177297
+	 2 term: area CHI-SQUARE: 0.05982793058942369
+	 3 term: southeast CHI-SQUARE: 0.056678464803530754
+	 4 term: east CHI-SQUARE: 0.0539940207376988
+	 5 term: south CHI-SQUARE: 0.05266122047508401
+	 6 term: north CHI-SQUARE: 0.0516692757474985
+	 7 term: town CHI-SQUARE: 0.051503906068093804
+	 8 term: near CHI-SQUARE: 0.049687778698649966
+	 9 term: west CHI-SQUARE: 0.04778784746677651
+	 10 term: banks CHI-SQUARE: 0.0448420228241217
+	 11 term: miles CHI-SQUARE: 0.043974736545322385
+	 12 term: flood CHI-SQUARE: 0.040031756379871705
+	 13 term: km CHI-SQUARE: 0.03956862006287269
+	 14 term: bridge CHI-SQUARE: 0.038666736181218346
+	 15 term: water CHI-SQUARE: 0.036580321125258976
+	 16 term: land CHI-SQUARE: 0.035732638761416385
+	 17 term: village CHI-SQUARE: 0.033544213594048876
+	 18 term: region CHI-SQUARE: 0.03327862716810576
+	 19 term: upstream CHI-SQUARE: 0.03295673307919265
+	 20 term: tributary CHI-SQUARE: 0.03295673307919265
+
+river vs
+	 1 term: area DICE: 0.13380281690140844
+	 2 term: east DICE: 0.13333333333333333
+	 3 term: town DICE: 0.13114754098360656
+	 4 term: south DICE: 0.13050847457627118
+	 5 term: north DICE: 0.12887438825448613
+	 6 term: near DICE: 0.12784588441331
+	 7 term: west DICE: 0.12612612612612611
+	 8 term: miles DICE: 0.11956521739130435
+	 9 term: water DICE: 0.11316397228637413
+	 10 term: land DICE: 0.11212814645308924
+	 11 term: km DICE: 0.11077844311377245
+	 12 term: rivers DICE: 0.11067193675889328
+	 13 term: village DICE: 0.10626702997275204
+	 14 term: region DICE: 0.10597826086956522
+	 15 term: southeast DICE: 0.10317460317460317
+	 16 term: bridge DICE: 0.10069444444444445
+	 17 term: park DICE: 0.09718670076726342
+	 18 term: population DICE: 0.09650924024640657
+	 19 term: northern DICE: 0.096
+	 20 term: lake DICE: 0.09570957095709572
