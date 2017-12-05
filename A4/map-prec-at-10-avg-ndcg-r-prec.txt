@@ -1,0 +1,258 @@
+query: 1
+	Precision at 10: 0.5
+	average NDCG: 1.0
+
+query: 2
+	Precision at 10: 0.3
+	average NDCG: 1.0
+
+query: 3
+	Precision at 10: 0.6
+	average NDCG: 1.0
+
+query: 4
+	Precision at 10: 1.0
+	average NDCG: 1.0
+
+query: 5
+	Precision at 10: 0.8
+	average NDCG: 1.0
+
+query: 6
+	Precision at 10: 0.3
+	average NDCG: 1.0
+
+query: 7
+	Precision at 10: 1.0
+	average NDCG: 1.0
+
+query: 8
+	Precision at 10: 0.3
+	average NDCG: 1.0
+
+query: 9
+	Precision at 10: 0.9
+	average NDCG: 1.0
+
+query: 10
+	Precision at 10: 1.0
+	average NDCG: 1.0
+
+query: 11
+	Precision at 10: 1.0
+	average NDCG: 1.0
+
+query: 12
+	Precision at 10: 0.5
+	average NDCG: 1.0
+
+query: 13
+	Precision at 10: 1.0
+	average NDCG: 1.0
+
+query: 14
+	Precision at 10: 1.0
+	average NDCG: 1.0
+
+query: 15
+	Precision at 10: 1.0
+	average NDCG: 1.0
+
+query: 16
+	Precision at 10: 1.0
+	average NDCG: 1.0
+
+query: 17
+	Precision at 10: 1.0
+	average NDCG: 1.0
+
+query: 18
+	Precision at 10: 1.0
+	average NDCG: 1.0
+
+query: 19
+	Precision at 10: 1.0
+	average NDCG: 1.0
+
+query: 20
+	Precision at 10: 0.3
+	average NDCG: 1.0
+
+query: 21
+	Precision at 10: 1.0
+	average NDCG: 1.0
+
+query: 22
+	Precision at 10: 1.0
+	average NDCG: 1.0
+
+query: 23
+	Precision at 10: 0.4
+	average NDCG: 1.0
+
+query: 24
+	Precision at 10: 1.0
+	average NDCG: 1.0
+
+query: 25
+	Precision at 10: 1.0
+	average NDCG: 1.0
+
+query: 26
+	Precision at 10: 1.0
+	average NDCG: 1.0
+
+query: 27
+	Precision at 10: 1.0
+	average NDCG: 1.0
+
+query: 28
+	Precision at 10: 0.5
+	average NDCG: 1.0
+
+query: 29
+	Precision at 10: 1.0
+	average NDCG: 1.0
+
+query: 30
+	Precision at 10: 0.4
+	average NDCG: 1.0
+
+query: 31
+	Precision at 10: 0.2
+	average NDCG: 1.0
+
+query: 32
+	Precision at 10: 0.3
+	average NDCG: 1.0
+
+query: 33
+	Precision at 10: 0.1
+	average NDCG: 1.0
+
+query: 34
+	Precision at 10: 0
+	average NDCG: 0.0
+
+query: 35
+	Precision at 10: 0
+	average NDCG: 0.0
+
+query: 36
+	Precision at 10: 1.0
+	average NDCG: 1.0
+
+query: 37
+	Precision at 10: 1.0
+	average NDCG: 1.0
+
+query: 38
+	Precision at 10: 1.0
+	average NDCG: 1.0
+
+query: 39
+	Precision at 10: 1.0
+	average NDCG: 1.0
+
+query: 40
+	Precision at 10: 1.0
+	average NDCG: 1.0
+
+query: 41
+	Precision at 10: 0
+	average NDCG: 0.0
+
+query: 42
+	Precision at 10: 1.0
+	average NDCG: 1.0
+
+query: 43
+	Precision at 10: 1.0
+	average NDCG: 1.0
+
+query: 44
+	Precision at 10: 1.0
+	average NDCG: 1.0
+
+query: 45
+	Precision at 10: 1.0
+	average NDCG: 1.0
+
+query: 46
+	Precision at 10: 0
+	average NDCG: 0.0
+
+query: 47
+	Precision at 10: 0
+	average NDCG: 0.0
+
+query: 48
+	Precision at 10: 1.0
+	average NDCG: 1.0
+
+query: 49
+	Precision at 10: 0.8
+	average NDCG: 1.0
+
+query: 50
+	Precision at 10: 0
+	average NDCG: 0.0
+
+query: 51
+	Precision at 10: 0
+	average NDCG: 0.0
+
+query: 52
+	Precision at 10: 0
+	average NDCG: 0.0
+
+query: 53
+	Precision at 10: 0
+	average NDCG: 0.0
+
+query: 54
+	Precision at 10: 0
+	average NDCG: 0.0
+
+query: 55
+	Precision at 10: 0
+	average NDCG: 0.0
+
+query: 56
+	Precision at 10: 0
+	average NDCG: 0.0
+
+query: 57
+	Precision at 10: 0.1
+	average NDCG: 1.0
+
+query: 58
+	Precision at 10: 1.0
+	average NDCG: 1.0
+
+query: 59
+	Precision at 10: 1.0
+	average NDCG: 1.0
+
+query: 60
+	Precision at 10: 1.0
+	average NDCG: 1.0
+
+query: 61
+	Precision at 10: 1.0
+	average NDCG: 1.0
+
+query: 62
+	Precision at 10: 0.8
+	average NDCG: 1.0
+
+query: 63
+	Precision at 10: 1.0
+	average NDCG: 1.0
+
+query: 64
+	Precision at 10: 1.0
+	average NDCG: 1.0
+
+MAP: 0.719438244048
+R-Precision: 0.8125

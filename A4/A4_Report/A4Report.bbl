@@ -1,0 +1,57 @@
+\begin{thebibliography}{10}
+
+\bibitem{AgglomerativeHierarchicalClustering}
+{A}gglomerative {H}ierarchical {C}lustering.
+\newblock https://onlinecourses.science.psu.edu/stat505/node/143.
+\newblock Accessed: 2017-12-03.
+
+\bibitem{CountVectorizer}
+{C}ountvectorizer.
+\newblock http://scikit\-learn.org/stable/modules/feature\_extraction.html.
+\newblock Accessed: 2017-10-10.
+
+\bibitem{GithubGist}
+{G}ithubgist.
+\newblock https://gist.github.com/bwhite/3726239.
+\newblock Accessed: 2017-12-03.
+
+\bibitem{SearchEngines}
+{I}nformation {R}etrieval {i}n {P}ractice.
+\newblock http://ciir.cs.umass.edu/downloads/SEIRiP.pdf.
+\newblock Accessed: 2017-10-10.
+
+\bibitem{LectureSlides}
+{I}nfornation {R}etrieval {E}valuation.
+\newblock
+  http://www.stanford.edu/class/cs276/handouts/EvaluationNew-handout-6-per.pdf.
+\newblock Accessed: 2017-12-03.
+
+\bibitem{Wikipidia}
+{J}accard index.
+\newblock https://en.wikipedia.org/wiki/Multiset.
+\newblock Accessed: 2017-11-05.
+
+\bibitem{MulticlassSVMs}
+{M}ulticlas {S}{V}{M}s.
+\newblock
+  https://nlp.stanford.edu/IR-book/html/htmledition/multiclass-svms-1.html.
+\newblock Accessed: 2017-12-03.
+
+\bibitem{QueryLikelihoodModel}
+{Q}uery likelihood model.
+\newblock https://en.wikipedia.org/wiki/Query\_likelihood\_model.
+\newblock Accessed: 2017-11-05.
+
+\bibitem{Quora}
+{Q}uora.
+\newblock
+  https://www.quora.com/What-are-industry-applications-of-the-K-nearest-neighbor-algorithm.
+\newblock Accessed: 2017-12-03.
+
+\bibitem{Youtube}
+{Y}outube.
+\newblock https://www.youtube.com/watch?v=WVkD-jURBDg
+  http://weka.sourceforge.net/doc.dev/weka/classifiers/functions/SMO.html.
+\newblock Accessed: 2017-12-03.
+
+\end{thebibliography}

@@ -1,0 +1,65 @@
+This is BibTeX, Version 0.99d (TeX Live 2015/Debian)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: A4Report.aux
+The style file: plain.bst
+Database file #1: A4Ref.bib
+Repeated entry---line 35 of file A4Ref.bib
+ : @misc{Wikipidia
+ :                ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 85 of file A4Ref.bib
+ : @misc{LectureSlides
+ :                    ,
+I'm skipping whatever remains of this entry
+Warning--to sort, need author or key in SearchEngines
+Warning--to sort, need author or key in CountVectorizer
+Warning--to sort, need author or key in QueryLikelihoodModel
+Warning--to sort, need author or key in Wikipidia
+Warning--to sort, need author or key in MulticlassSVMs
+Warning--to sort, need author or key in Youtube
+Warning--to sort, need author or key in AgglomerativeHierarchicalClustering
+Warning--to sort, need author or key in GithubGist
+Warning--to sort, need author or key in LectureSlides
+Warning--to sort, need author or key in Quora
+You've used 10 entries,
+            2118 wiz_defined-function locations,
+            540 strings with 5208 characters,
+and the built_in function-call counts, 1702 in all, are:
+= -- 170
+> -- 10
+< -- 0
++ -- 10
+- -- 0
+* -- 52
+:= -- 201
+add.period$ -- 30
+call.type$ -- 10
+change.case$ -- 30
+chr.to.int$ -- 0
+cite$ -- 20
+duplicate$ -- 70
+empty$ -- 231
+format.name$ -- 0
+if$ -- 421
+int.to.chr$ -- 0
+int.to.str$ -- 10
+missing$ -- 0
+newline$ -- 53
+num.names$ -- 0
+pop$ -- 100
+preamble$ -- 1
+purify$ -- 20
+quote$ -- 0
+skip$ -- 49
+stack$ -- 0
+substring$ -- 50
+swap$ -- 10
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 40
+warning$ -- 10
+while$ -- 0
+width$ -- 12
+write$ -- 92
+(There were 2 error messages)
