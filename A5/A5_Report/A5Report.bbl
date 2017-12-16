@@ -1,0 +1,40 @@
+\begin{thebibliography}{1}
+
+\bibitem{DistributedInformationRetrieval}
+
+
+\bibitem{LectureSlides}
+{E}valuation.
+\newblock
+  http://www.cs.sfu.ca/CourseCentral/456/jpei/web%20slides/L19%20-%20Evaluation.pdf.
+\newblock Accessed: 2017-12-03.
+
+\bibitem{GithubGist}
+{G}ithubgist.
+\newblock https://gist.github.com/bwhite/3726239.
+\newblock Accessed: 2017-12-03.
+
+\bibitem{Hits}
+{H}its.
+\newblock
+  https://networkx.github.io/documentation/networkx-1.9.1/reference/generated/networkx.algorithms.link\_analysis.hits\_alg.hits.ht.
+\newblock Accessed: 2017-12-14.
+
+\bibitem{SearchEngines}
+{I}nformation {R}etrieval {i}n {P}ractice.
+\newblock http://ciir.cs.umass.edu/downloads/SEIRiP.pdf.
+\newblock Accessed: 2017-10-10.
+
+\bibitem{PageRank}
+{P}agerank.
+\newblock
+  hhttps://networkx.github.io/documentation/networkx-1.10/reference/generated/networkx.algorithms.link\_analysis.pagerank\_alg.pagerank.html.
+\newblock Accessed: 2017-12-14.
+
+\bibitem{Quora}
+{Q}uora.
+\newblock https://www.quora.com/What-are-industry-applications-of-the-K-nearest
+  -neighbor-algorithm.
+\newblock Accessed: 2017-12-03.
+
+\end{thebibliography}
